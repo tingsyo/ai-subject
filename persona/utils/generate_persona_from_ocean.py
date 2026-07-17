@@ -71,17 +71,13 @@ def generate_persona_gemini(scores, temperature=0.0, random_seed=None):
     }
     return(output)
 
-def generate_persona_ollama(scores, model='gemma4:latest',temperature=0.0, random_seed=None):
+def generate_persona_ollama(scores, model='gemma4:latest',temperature=0.0):
     ''' Use google-genai API to generate persona description. '''
-    # Customized config
-    cfg = {"temperature":temperature}        
-    if not random_seed is None:
-        cfg["seed"] = random_seed
     # Call API
     response = ollama.generate(
         model=model,
         prompt=INSTRUCTION_PROMPT.format(scores[0],scores[1],scores[2],scores[3],scores[4]),
-        options=cfg
+        options={"temperature":temperature}
     )
     output = {
         "model": model,
@@ -105,19 +101,22 @@ def main():
     parser = argparse.ArgumentParser(description='Building convolutional autoencoder .')
     #parser.add_argument('--config', '-c', help='the configuration file in json format.')
     parser.add_argument('--model', '-m', default="gemma4:latest", help='the name of LLM.')
-    parser.add_argument('--temperature', '-t', default=0.0, help='the temperature for LLM.')
+    parser.add_argument('--temperature', '-t', type=float, default=0.0, help='the temperature for LLM.')
     parser.add_argument('--output', '-o', help='the prefix of output files.')
     parser.add_argument('--logfile', '-l', default=None, help='the log file.')
 
     args = parser.parse_args()
     # Set up logging
+    logging.basicConfig(
+            format='%(asctime)s - %(levelname)s - %(message)s',
+            datefmt='%Y%m%d %H:%M:%S',
+            level=logging.INFO
+    )
     if not args.logfile is None:
         logging.basicConfig(level=logging.DEBUG, filename=args.logfile, filemode='w')
-    else:
-        logging.basicConfig(level=logging.DEBUG)
     logging.debug(args)
     # Generate Scores
-    levels = [i for i in range(5,100,10)]
+    levels = [i for i in range(5,100,30)]
     scores = []
     for o in levels:
         for c in levels:
@@ -128,16 +127,22 @@ def main():
     # Loop through scores
     output = []
     counter = 0
+    logging.info("Starting generation, total profile counts: "+str(len(scores)))
     for i in range(len(scores)):
         s = scores[i]
+        logging.info("Count: "+str(i)+"\tScore: "+str(s))
         res = generate_persona_ollama(scores=s, model=args.model, temperature=args.temperature)
         output.append(res)
         # output every 100 responses
         if (i % 100 == 0) and (i!=0):
             fname = args.output + "_" + str(counter).zfill(4) + ".jsonl"
+            logging.info("Output batch "+str(counter)+" to "+fname)
             write_jsonl(output, fname)
             counter = counter + 1
             output =[]
+    # Output the final batch
+    fname = args.output + "_" + str(counter).zfill(4) + ".jsonl"
+    write_jsonl(output, fname)
     # done
     return(0)
 
