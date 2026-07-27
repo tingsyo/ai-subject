@@ -1,0 +1,2059 @@
+20260724 14:38:09 - INFO - Starting generation, total profile counts: 1024
+20260724 14:38:09 - INFO - Count: 0	Score: [5, 5, 5, 5, 5]
+20260724 14:38:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:38:48 - INFO - Count: 1	Score: [5, 5, 5, 5, 35]
+20260724 14:39:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:39:26 - INFO - Count: 2	Score: [5, 5, 5, 5, 65]
+20260724 14:40:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:40:02 - INFO - Count: 3	Score: [5, 5, 5, 5, 95]
+20260724 14:40:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:40:37 - INFO - Count: 4	Score: [5, 5, 5, 35, 5]
+20260724 14:41:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:41:11 - INFO - Count: 5	Score: [5, 5, 5, 35, 35]
+20260724 14:41:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:41:45 - INFO - Count: 6	Score: [5, 5, 5, 35, 65]
+20260724 14:42:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:42:20 - INFO - Count: 7	Score: [5, 5, 5, 35, 95]
+20260724 14:42:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:42:56 - INFO - Count: 8	Score: [5, 5, 5, 65, 5]
+20260724 14:43:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:43:33 - INFO - Count: 9	Score: [5, 5, 5, 65, 35]
+20260724 14:44:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:44:09 - INFO - Count: 10	Score: [5, 5, 5, 65, 65]
+20260724 14:44:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:44:44 - INFO - Count: 11	Score: [5, 5, 5, 65, 95]
+20260724 14:45:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:45:23 - INFO - Count: 12	Score: [5, 5, 5, 95, 5]
+20260724 14:46:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:46:01 - INFO - Count: 13	Score: [5, 5, 5, 95, 35]
+20260724 14:46:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:46:37 - INFO - Count: 14	Score: [5, 5, 5, 95, 65]
+20260724 14:47:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:47:14 - INFO - Count: 15	Score: [5, 5, 5, 95, 95]
+20260724 14:47:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:47:51 - INFO - Count: 16	Score: [5, 5, 35, 5, 5]
+20260724 14:48:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:48:29 - INFO - Count: 17	Score: [5, 5, 35, 5, 35]
+20260724 14:49:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:49:05 - INFO - Count: 18	Score: [5, 5, 35, 5, 65]
+20260724 14:49:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:49:42 - INFO - Count: 19	Score: [5, 5, 35, 5, 95]
+20260724 14:50:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:50:18 - INFO - Count: 20	Score: [5, 5, 35, 35, 5]
+20260724 14:50:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:50:54 - INFO - Count: 21	Score: [5, 5, 35, 35, 35]
+20260724 14:51:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:51:29 - INFO - Count: 22	Score: [5, 5, 35, 35, 65]
+20260724 14:52:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:52:05 - INFO - Count: 23	Score: [5, 5, 35, 35, 95]
+20260724 14:52:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:52:40 - INFO - Count: 24	Score: [5, 5, 35, 65, 5]
+20260724 14:53:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:53:18 - INFO - Count: 25	Score: [5, 5, 35, 65, 35]
+20260724 14:53:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:53:53 - INFO - Count: 26	Score: [5, 5, 35, 65, 65]
+20260724 14:54:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:54:29 - INFO - Count: 27	Score: [5, 5, 35, 65, 95]
+20260724 14:55:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:55:06 - INFO - Count: 28	Score: [5, 5, 35, 95, 5]
+20260724 14:55:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:55:41 - INFO - Count: 29	Score: [5, 5, 35, 95, 35]
+20260724 14:56:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:56:14 - INFO - Count: 30	Score: [5, 5, 35, 95, 65]
+20260724 14:56:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:56:50 - INFO - Count: 31	Score: [5, 5, 35, 95, 95]
+20260724 14:57:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:57:26 - INFO - Count: 32	Score: [5, 5, 65, 5, 5]
+20260724 14:58:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:58:03 - INFO - Count: 33	Score: [5, 5, 65, 5, 35]
+20260724 14:58:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:58:38 - INFO - Count: 34	Score: [5, 5, 65, 5, 65]
+20260724 14:59:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:59:16 - INFO - Count: 35	Score: [5, 5, 65, 5, 95]
+20260724 14:59:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 14:59:50 - INFO - Count: 36	Score: [5, 5, 65, 35, 5]
+20260724 15:00:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:00:24 - INFO - Count: 37	Score: [5, 5, 65, 35, 35]
+20260724 15:01:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:01:02 - INFO - Count: 38	Score: [5, 5, 65, 35, 65]
+20260724 15:01:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:01:40 - INFO - Count: 39	Score: [5, 5, 65, 35, 95]
+20260724 15:02:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:02:16 - INFO - Count: 40	Score: [5, 5, 65, 65, 5]
+20260724 15:02:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:02:51 - INFO - Count: 41	Score: [5, 5, 65, 65, 35]
+20260724 15:03:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:03:28 - INFO - Count: 42	Score: [5, 5, 65, 65, 65]
+20260724 15:04:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:04:07 - INFO - Count: 43	Score: [5, 5, 65, 65, 95]
+20260724 15:04:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:04:48 - INFO - Count: 44	Score: [5, 5, 65, 95, 5]
+20260724 15:05:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:05:26 - INFO - Count: 45	Score: [5, 5, 65, 95, 35]
+20260724 15:06:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:06:02 - INFO - Count: 46	Score: [5, 5, 65, 95, 65]
+20260724 15:06:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:06:38 - INFO - Count: 47	Score: [5, 5, 65, 95, 95]
+20260724 15:07:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:07:13 - INFO - Count: 48	Score: [5, 5, 95, 5, 5]
+20260724 15:07:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:07:49 - INFO - Count: 49	Score: [5, 5, 95, 5, 35]
+20260724 15:08:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:08:24 - INFO - Count: 50	Score: [5, 5, 95, 5, 65]
+20260724 15:08:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:08:59 - INFO - Count: 51	Score: [5, 5, 95, 5, 95]
+20260724 15:09:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:09:36 - INFO - Count: 52	Score: [5, 5, 95, 35, 5]
+20260724 15:10:12 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:10:12 - INFO - Count: 53	Score: [5, 5, 95, 35, 35]
+20260724 15:10:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:10:46 - INFO - Count: 54	Score: [5, 5, 95, 35, 65]
+20260724 15:11:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:11:24 - INFO - Count: 55	Score: [5, 5, 95, 35, 95]
+20260724 15:12:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:12:00 - INFO - Count: 56	Score: [5, 5, 95, 65, 5]
+20260724 15:12:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:12:34 - INFO - Count: 57	Score: [5, 5, 95, 65, 35]
+20260724 15:13:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:13:10 - INFO - Count: 58	Score: [5, 5, 95, 65, 65]
+20260724 15:13:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:13:47 - INFO - Count: 59	Score: [5, 5, 95, 65, 95]
+20260724 15:14:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:14:25 - INFO - Count: 60	Score: [5, 5, 95, 95, 5]
+20260724 15:14:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:14:59 - INFO - Count: 61	Score: [5, 5, 95, 95, 35]
+20260724 15:15:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:15:36 - INFO - Count: 62	Score: [5, 5, 95, 95, 65]
+20260724 15:16:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:16:14 - INFO - Count: 63	Score: [5, 5, 95, 95, 95]
+20260724 15:16:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:16:51 - INFO - Count: 64	Score: [5, 35, 5, 5, 5]
+20260724 15:17:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:17:25 - INFO - Count: 65	Score: [5, 35, 5, 5, 35]
+20260724 15:17:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:17:56 - INFO - Count: 66	Score: [5, 35, 5, 5, 65]
+20260724 15:18:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:18:32 - INFO - Count: 67	Score: [5, 35, 5, 5, 95]
+20260724 15:19:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:19:07 - INFO - Count: 68	Score: [5, 35, 5, 35, 5]
+20260724 15:19:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:19:40 - INFO - Count: 69	Score: [5, 35, 5, 35, 35]
+20260724 15:20:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:20:14 - INFO - Count: 70	Score: [5, 35, 5, 35, 65]
+20260724 15:20:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:20:50 - INFO - Count: 71	Score: [5, 35, 5, 35, 95]
+20260724 15:21:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:21:25 - INFO - Count: 72	Score: [5, 35, 5, 65, 5]
+20260724 15:22:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:22:01 - INFO - Count: 73	Score: [5, 35, 5, 65, 35]
+20260724 15:22:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:22:35 - INFO - Count: 74	Score: [5, 35, 5, 65, 65]
+20260724 15:23:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:23:13 - INFO - Count: 75	Score: [5, 35, 5, 65, 95]
+20260724 15:23:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:23:49 - INFO - Count: 76	Score: [5, 35, 5, 95, 5]
+20260724 15:24:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:24:24 - INFO - Count: 77	Score: [5, 35, 5, 95, 35]
+20260724 15:24:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:24:58 - INFO - Count: 78	Score: [5, 35, 5, 95, 65]
+20260724 15:25:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:25:35 - INFO - Count: 79	Score: [5, 35, 5, 95, 95]
+20260724 15:26:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:26:10 - INFO - Count: 80	Score: [5, 35, 35, 5, 5]
+20260724 15:26:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:26:46 - INFO - Count: 81	Score: [5, 35, 35, 5, 35]
+20260724 15:27:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:27:16 - INFO - Count: 82	Score: [5, 35, 35, 5, 65]
+20260724 15:27:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:27:53 - INFO - Count: 83	Score: [5, 35, 35, 5, 95]
+20260724 15:28:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:28:28 - INFO - Count: 84	Score: [5, 35, 35, 35, 5]
+20260724 15:29:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:29:01 - INFO - Count: 85	Score: [5, 35, 35, 35, 35]
+20260724 15:29:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:29:37 - INFO - Count: 86	Score: [5, 35, 35, 35, 65]
+20260724 15:30:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:30:13 - INFO - Count: 87	Score: [5, 35, 35, 35, 95]
+20260724 15:30:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:30:48 - INFO - Count: 88	Score: [5, 35, 35, 65, 5]
+20260724 15:31:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:31:23 - INFO - Count: 89	Score: [5, 35, 35, 65, 35]
+20260724 15:31:57 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:31:57 - INFO - Count: 90	Score: [5, 35, 35, 65, 65]
+20260724 15:32:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:32:33 - INFO - Count: 91	Score: [5, 35, 35, 65, 95]
+20260724 15:33:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:33:09 - INFO - Count: 92	Score: [5, 35, 35, 95, 5]
+20260724 15:33:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:33:43 - INFO - Count: 93	Score: [5, 35, 35, 95, 35]
+20260724 15:34:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:34:18 - INFO - Count: 94	Score: [5, 35, 35, 95, 65]
+20260724 15:34:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:34:56 - INFO - Count: 95	Score: [5, 35, 35, 95, 95]
+20260724 15:35:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:35:33 - INFO - Count: 96	Score: [5, 35, 65, 5, 5]
+20260724 15:36:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:36:08 - INFO - Count: 97	Score: [5, 35, 65, 5, 35]
+20260724 15:36:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:36:42 - INFO - Count: 98	Score: [5, 35, 65, 5, 65]
+20260724 15:37:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:37:19 - INFO - Count: 99	Score: [5, 35, 65, 5, 95]
+20260724 15:37:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:37:56 - INFO - Count: 100	Score: [5, 35, 65, 35, 5]
+20260724 15:38:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:38:31 - INFO - Output batch 0 to data/gemma4_e4b_00/test_q_0000.jsonl
+20260724 15:38:31 - INFO - Count: 101	Score: [5, 35, 65, 35, 35]
+20260724 15:39:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:39:08 - INFO - Count: 102	Score: [5, 35, 65, 35, 65]
+20260724 15:39:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:39:44 - INFO - Count: 103	Score: [5, 35, 65, 35, 95]
+20260724 15:40:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:40:20 - INFO - Count: 104	Score: [5, 35, 65, 65, 5]
+20260724 15:40:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:40:55 - INFO - Count: 105	Score: [5, 35, 65, 65, 35]
+20260724 15:41:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:41:33 - INFO - Count: 106	Score: [5, 35, 65, 65, 65]
+20260724 15:42:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:42:11 - INFO - Count: 107	Score: [5, 35, 65, 65, 95]
+20260724 15:42:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:42:49 - INFO - Count: 108	Score: [5, 35, 65, 95, 5]
+20260724 15:43:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:43:24 - INFO - Count: 109	Score: [5, 35, 65, 95, 35]
+20260724 15:43:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:43:59 - INFO - Count: 110	Score: [5, 35, 65, 95, 65]
+20260724 15:44:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:44:36 - INFO - Count: 111	Score: [5, 35, 65, 95, 95]
+20260724 15:45:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:45:11 - INFO - Count: 112	Score: [5, 35, 95, 5, 5]
+20260724 15:45:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:45:45 - INFO - Count: 113	Score: [5, 35, 95, 5, 35]
+20260724 15:46:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:46:21 - INFO - Count: 114	Score: [5, 35, 95, 5, 65]
+20260724 15:46:57 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:46:57 - INFO - Count: 115	Score: [5, 35, 95, 5, 95]
+20260724 15:47:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:47:33 - INFO - Count: 116	Score: [5, 35, 95, 35, 5]
+20260724 15:48:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:48:08 - INFO - Count: 117	Score: [5, 35, 95, 35, 35]
+20260724 15:48:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:48:43 - INFO - Count: 118	Score: [5, 35, 95, 35, 65]
+20260724 15:49:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:49:18 - INFO - Count: 119	Score: [5, 35, 95, 35, 95]
+20260724 15:49:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:49:53 - INFO - Count: 120	Score: [5, 35, 95, 65, 5]
+20260724 15:50:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:50:32 - INFO - Count: 121	Score: [5, 35, 95, 65, 35]
+20260724 15:51:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:51:06 - INFO - Count: 122	Score: [5, 35, 95, 65, 65]
+20260724 15:51:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:51:43 - INFO - Count: 123	Score: [5, 35, 95, 65, 95]
+20260724 15:52:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:52:19 - INFO - Count: 124	Score: [5, 35, 95, 95, 5]
+20260724 15:52:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:52:55 - INFO - Count: 125	Score: [5, 35, 95, 95, 35]
+20260724 15:53:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:53:32 - INFO - Count: 126	Score: [5, 35, 95, 95, 65]
+20260724 15:54:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:54:08 - INFO - Count: 127	Score: [5, 35, 95, 95, 95]
+20260724 15:54:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:54:45 - INFO - Count: 128	Score: [5, 65, 5, 5, 5]
+20260724 15:55:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:55:16 - INFO - Count: 129	Score: [5, 65, 5, 5, 35]
+20260724 15:55:52 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:55:52 - INFO - Count: 130	Score: [5, 65, 5, 5, 65]
+20260724 15:56:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:56:26 - INFO - Count: 131	Score: [5, 65, 5, 5, 95]
+20260724 15:56:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:56:59 - INFO - Count: 132	Score: [5, 65, 5, 35, 5]
+20260724 15:57:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:57:33 - INFO - Count: 133	Score: [5, 65, 5, 35, 35]
+20260724 15:58:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:58:08 - INFO - Count: 134	Score: [5, 65, 5, 35, 65]
+20260724 15:58:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:58:43 - INFO - Count: 135	Score: [5, 65, 5, 35, 95]
+20260724 15:59:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:59:18 - INFO - Count: 136	Score: [5, 65, 5, 65, 5]
+20260724 15:59:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 15:59:51 - INFO - Count: 137	Score: [5, 65, 5, 65, 35]
+20260724 16:00:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:00:24 - INFO - Count: 138	Score: [5, 65, 5, 65, 65]
+20260724 16:00:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:00:58 - INFO - Count: 139	Score: [5, 65, 5, 65, 95]
+20260724 16:01:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:01:32 - INFO - Count: 140	Score: [5, 65, 5, 95, 5]
+20260724 16:02:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:02:08 - INFO - Count: 141	Score: [5, 65, 5, 95, 35]
+20260724 16:02:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:02:41 - INFO - Count: 142	Score: [5, 65, 5, 95, 65]
+20260724 16:03:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:03:16 - INFO - Count: 143	Score: [5, 65, 5, 95, 95]
+20260724 16:03:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:03:49 - INFO - Count: 144	Score: [5, 65, 35, 5, 5]
+20260724 16:04:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:04:23 - INFO - Count: 145	Score: [5, 65, 35, 5, 35]
+20260724 16:04:57 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:04:57 - INFO - Count: 146	Score: [5, 65, 35, 5, 65]
+20260724 16:05:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:05:33 - INFO - Count: 147	Score: [5, 65, 35, 5, 95]
+20260724 16:06:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:06:09 - INFO - Count: 148	Score: [5, 65, 35, 35, 5]
+20260724 16:06:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:06:41 - INFO - Count: 149	Score: [5, 65, 35, 35, 35]
+20260724 16:07:12 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:07:12 - INFO - Count: 150	Score: [5, 65, 35, 35, 65]
+20260724 16:07:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:07:48 - INFO - Count: 151	Score: [5, 65, 35, 35, 95]
+20260724 16:08:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:08:24 - INFO - Count: 152	Score: [5, 65, 35, 65, 5]
+20260724 16:08:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:08:59 - INFO - Count: 153	Score: [5, 65, 35, 65, 35]
+20260724 16:09:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:09:33 - INFO - Count: 154	Score: [5, 65, 35, 65, 65]
+20260724 16:10:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:10:06 - INFO - Count: 155	Score: [5, 65, 35, 65, 95]
+20260724 16:10:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:10:42 - INFO - Count: 156	Score: [5, 65, 35, 95, 5]
+20260724 16:11:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:11:10 - INFO - Count: 157	Score: [5, 65, 35, 95, 35]
+20260724 16:11:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:11:45 - INFO - Count: 158	Score: [5, 65, 35, 95, 65]
+20260724 16:12:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:12:19 - INFO - Count: 159	Score: [5, 65, 35, 95, 95]
+20260724 16:12:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:12:54 - INFO - Count: 160	Score: [5, 65, 65, 5, 5]
+20260724 16:13:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:13:29 - INFO - Count: 161	Score: [5, 65, 65, 5, 35]
+20260724 16:14:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:14:05 - INFO - Count: 162	Score: [5, 65, 65, 5, 65]
+20260724 16:14:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:14:40 - INFO - Count: 163	Score: [5, 65, 65, 5, 95]
+20260724 16:15:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:15:15 - INFO - Count: 164	Score: [5, 65, 65, 35, 5]
+20260724 16:15:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:15:48 - INFO - Count: 165	Score: [5, 65, 65, 35, 35]
+20260724 16:16:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:16:22 - INFO - Count: 166	Score: [5, 65, 65, 35, 65]
+20260724 16:16:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:16:59 - INFO - Count: 167	Score: [5, 65, 65, 35, 95]
+20260724 16:17:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:17:31 - INFO - Count: 168	Score: [5, 65, 65, 65, 5]
+20260724 16:18:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:18:00 - INFO - Count: 169	Score: [5, 65, 65, 65, 35]
+20260724 16:18:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:18:34 - INFO - Count: 170	Score: [5, 65, 65, 65, 65]
+20260724 16:19:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:19:08 - INFO - Count: 171	Score: [5, 65, 65, 65, 95]
+20260724 16:19:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:19:46 - INFO - Count: 172	Score: [5, 65, 65, 95, 5]
+20260724 16:20:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:20:22 - INFO - Count: 173	Score: [5, 65, 65, 95, 35]
+20260724 16:20:57 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:20:57 - INFO - Count: 174	Score: [5, 65, 65, 95, 65]
+20260724 16:21:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:21:32 - INFO - Count: 175	Score: [5, 65, 65, 95, 95]
+20260724 16:22:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:22:09 - INFO - Count: 176	Score: [5, 65, 95, 5, 5]
+20260724 16:22:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:22:44 - INFO - Count: 177	Score: [5, 65, 95, 5, 35]
+20260724 16:23:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:23:19 - INFO - Count: 178	Score: [5, 65, 95, 5, 65]
+20260724 16:23:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:23:54 - INFO - Count: 179	Score: [5, 65, 95, 5, 95]
+20260724 16:24:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:24:28 - INFO - Count: 180	Score: [5, 65, 95, 35, 5]
+20260724 16:25:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:25:03 - INFO - Count: 181	Score: [5, 65, 95, 35, 35]
+20260724 16:25:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:25:40 - INFO - Count: 182	Score: [5, 65, 95, 35, 65]
+20260724 16:26:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:26:16 - INFO - Count: 183	Score: [5, 65, 95, 35, 95]
+20260724 16:26:52 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:26:52 - INFO - Count: 184	Score: [5, 65, 95, 65, 5]
+20260724 16:27:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:27:27 - INFO - Count: 185	Score: [5, 65, 95, 65, 35]
+20260724 16:28:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:28:03 - INFO - Count: 186	Score: [5, 65, 95, 65, 65]
+20260724 16:28:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:28:39 - INFO - Count: 187	Score: [5, 65, 95, 65, 95]
+20260724 16:29:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:29:14 - INFO - Count: 188	Score: [5, 65, 95, 95, 5]
+20260724 16:29:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:29:47 - INFO - Count: 189	Score: [5, 65, 95, 95, 35]
+20260724 16:30:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:30:22 - INFO - Count: 190	Score: [5, 65, 95, 95, 65]
+20260724 16:31:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:31:01 - INFO - Count: 191	Score: [5, 65, 95, 95, 95]
+20260724 16:31:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:31:35 - INFO - Count: 192	Score: [5, 95, 5, 5, 5]
+20260724 16:32:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:32:10 - INFO - Count: 193	Score: [5, 95, 5, 5, 35]
+20260724 16:32:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:32:44 - INFO - Count: 194	Score: [5, 95, 5, 5, 65]
+20260724 16:33:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:33:17 - INFO - Count: 195	Score: [5, 95, 5, 5, 95]
+20260724 16:33:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:33:53 - INFO - Count: 196	Score: [5, 95, 5, 35, 5]
+20260724 16:34:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:34:28 - INFO - Count: 197	Score: [5, 95, 5, 35, 35]
+20260724 16:35:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:35:01 - INFO - Count: 198	Score: [5, 95, 5, 35, 65]
+20260724 16:35:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:35:39 - INFO - Count: 199	Score: [5, 95, 5, 35, 95]
+20260724 16:36:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:36:16 - INFO - Count: 200	Score: [5, 95, 5, 65, 5]
+20260724 16:36:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:36:51 - INFO - Output batch 1 to data/gemma4_e4b_00/test_q_0001.jsonl
+20260724 16:36:51 - INFO - Count: 201	Score: [5, 95, 5, 65, 35]
+20260724 16:37:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:37:28 - INFO - Count: 202	Score: [5, 95, 5, 65, 65]
+20260724 16:38:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:38:01 - INFO - Count: 203	Score: [5, 95, 5, 65, 95]
+20260724 16:38:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:38:36 - INFO - Count: 204	Score: [5, 95, 5, 95, 5]
+20260724 16:39:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:39:10 - INFO - Count: 205	Score: [5, 95, 5, 95, 35]
+20260724 16:39:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:39:45 - INFO - Count: 206	Score: [5, 95, 5, 95, 65]
+20260724 16:40:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:40:21 - INFO - Count: 207	Score: [5, 95, 5, 95, 95]
+20260724 16:40:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:40:56 - INFO - Count: 208	Score: [5, 95, 35, 5, 5]
+20260724 16:41:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:41:33 - INFO - Count: 209	Score: [5, 95, 35, 5, 35]
+20260724 16:42:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:42:09 - INFO - Count: 210	Score: [5, 95, 35, 5, 65]
+20260724 16:42:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:42:42 - INFO - Count: 211	Score: [5, 95, 35, 5, 95]
+20260724 16:43:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:43:17 - INFO - Count: 212	Score: [5, 95, 35, 35, 5]
+20260724 16:43:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:43:51 - INFO - Count: 213	Score: [5, 95, 35, 35, 35]
+20260724 16:44:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:44:25 - INFO - Count: 214	Score: [5, 95, 35, 35, 65]
+20260724 16:45:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:45:00 - INFO - Count: 215	Score: [5, 95, 35, 35, 95]
+20260724 16:45:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:45:36 - INFO - Count: 216	Score: [5, 95, 35, 65, 5]
+20260724 16:46:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:46:11 - INFO - Count: 217	Score: [5, 95, 35, 65, 35]
+20260724 16:46:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:46:41 - INFO - Count: 218	Score: [5, 95, 35, 65, 65]
+20260724 16:47:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:47:17 - INFO - Count: 219	Score: [5, 95, 35, 65, 95]
+20260724 16:47:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:47:53 - INFO - Count: 220	Score: [5, 95, 35, 95, 5]
+20260724 16:48:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:48:29 - INFO - Count: 221	Score: [5, 95, 35, 95, 35]
+20260724 16:49:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:49:03 - INFO - Count: 222	Score: [5, 95, 35, 95, 65]
+20260724 16:49:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:49:39 - INFO - Count: 223	Score: [5, 95, 35, 95, 95]
+20260724 16:50:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:50:14 - INFO - Count: 224	Score: [5, 95, 65, 5, 5]
+20260724 16:50:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:50:47 - INFO - Count: 225	Score: [5, 95, 65, 5, 35]
+20260724 16:51:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:51:22 - INFO - Count: 226	Score: [5, 95, 65, 5, 65]
+20260724 16:51:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:51:58 - INFO - Count: 227	Score: [5, 95, 65, 5, 95]
+20260724 16:52:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:52:31 - INFO - Count: 228	Score: [5, 95, 65, 35, 5]
+20260724 16:53:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:53:07 - INFO - Count: 229	Score: [5, 95, 65, 35, 35]
+20260724 16:53:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:53:42 - INFO - Count: 230	Score: [5, 95, 65, 35, 65]
+20260724 16:54:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:54:21 - INFO - Count: 231	Score: [5, 95, 65, 35, 95]
+20260724 16:54:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:54:56 - INFO - Count: 232	Score: [5, 95, 65, 65, 5]
+20260724 16:55:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:55:31 - INFO - Count: 233	Score: [5, 95, 65, 65, 35]
+20260724 16:56:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:56:06 - INFO - Count: 234	Score: [5, 95, 65, 65, 65]
+20260724 16:56:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:56:41 - INFO - Count: 235	Score: [5, 95, 65, 65, 95]
+20260724 16:57:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:57:17 - INFO - Count: 236	Score: [5, 95, 65, 95, 5]
+20260724 16:57:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:57:51 - INFO - Count: 237	Score: [5, 95, 65, 95, 35]
+20260724 16:58:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:58:28 - INFO - Count: 238	Score: [5, 95, 65, 95, 65]
+20260724 16:59:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:59:04 - INFO - Count: 239	Score: [5, 95, 65, 95, 95]
+20260724 16:59:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 16:59:39 - INFO - Count: 240	Score: [5, 95, 95, 5, 5]
+20260724 17:00:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:00:15 - INFO - Count: 241	Score: [5, 95, 95, 5, 35]
+20260724 17:00:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:00:49 - INFO - Count: 242	Score: [5, 95, 95, 5, 65]
+20260724 17:01:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:01:24 - INFO - Count: 243	Score: [5, 95, 95, 5, 95]
+20260724 17:02:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:02:01 - INFO - Count: 244	Score: [5, 95, 95, 35, 5]
+20260724 17:02:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:02:38 - INFO - Count: 245	Score: [5, 95, 95, 35, 35]
+20260724 17:03:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:03:13 - INFO - Count: 246	Score: [5, 95, 95, 35, 65]
+20260724 17:03:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:03:47 - INFO - Count: 247	Score: [5, 95, 95, 35, 95]
+20260724 17:04:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:04:21 - INFO - Count: 248	Score: [5, 95, 95, 65, 5]
+20260724 17:04:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:04:56 - INFO - Count: 249	Score: [5, 95, 95, 65, 35]
+20260724 17:05:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:05:33 - INFO - Count: 250	Score: [5, 95, 95, 65, 65]
+20260724 17:06:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:06:06 - INFO - Count: 251	Score: [5, 95, 95, 65, 95]
+20260724 17:06:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:06:44 - INFO - Count: 252	Score: [5, 95, 95, 95, 5]
+20260724 17:07:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:07:18 - INFO - Count: 253	Score: [5, 95, 95, 95, 35]
+20260724 17:07:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:07:53 - INFO - Count: 254	Score: [5, 95, 95, 95, 65]
+20260724 17:08:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:08:29 - INFO - Count: 255	Score: [5, 95, 95, 95, 95]
+20260724 17:09:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:09:06 - INFO - Count: 256	Score: [35, 5, 5, 5, 5]
+20260724 17:09:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:09:40 - INFO - Count: 257	Score: [35, 5, 5, 5, 35]
+20260724 17:10:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:10:14 - INFO - Count: 258	Score: [35, 5, 5, 5, 65]
+20260724 17:10:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:10:48 - INFO - Count: 259	Score: [35, 5, 5, 5, 95]
+20260724 17:11:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:11:24 - INFO - Count: 260	Score: [35, 5, 5, 35, 5]
+20260724 17:12:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:12:00 - INFO - Count: 261	Score: [35, 5, 5, 35, 35]
+20260724 17:12:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:12:34 - INFO - Count: 262	Score: [35, 5, 5, 35, 65]
+20260724 17:13:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:13:10 - INFO - Count: 263	Score: [35, 5, 5, 35, 95]
+20260724 17:13:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:13:44 - INFO - Count: 264	Score: [35, 5, 5, 65, 5]
+20260724 17:14:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:14:20 - INFO - Count: 265	Score: [35, 5, 5, 65, 35]
+20260724 17:14:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:14:56 - INFO - Count: 266	Score: [35, 5, 5, 65, 65]
+20260724 17:15:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:15:28 - INFO - Count: 267	Score: [35, 5, 5, 65, 95]
+20260724 17:16:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:16:02 - INFO - Count: 268	Score: [35, 5, 5, 95, 5]
+20260724 17:16:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:16:39 - INFO - Count: 269	Score: [35, 5, 5, 95, 35]
+20260724 17:17:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:17:14 - INFO - Count: 270	Score: [35, 5, 5, 95, 65]
+20260724 17:17:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:17:49 - INFO - Count: 271	Score: [35, 5, 5, 95, 95]
+20260724 17:18:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:18:24 - INFO - Count: 272	Score: [35, 5, 35, 5, 5]
+20260724 17:18:57 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:18:57 - INFO - Count: 273	Score: [35, 5, 35, 5, 35]
+20260724 17:19:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:19:35 - INFO - Count: 274	Score: [35, 5, 35, 5, 65]
+20260724 17:20:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:20:10 - INFO - Count: 275	Score: [35, 5, 35, 5, 95]
+20260724 17:20:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:20:44 - INFO - Count: 276	Score: [35, 5, 35, 35, 5]
+20260724 17:21:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:21:20 - INFO - Count: 277	Score: [35, 5, 35, 35, 35]
+20260724 17:21:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:21:55 - INFO - Count: 278	Score: [35, 5, 35, 35, 65]
+20260724 17:22:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:22:29 - INFO - Count: 279	Score: [35, 5, 35, 35, 95]
+20260724 17:23:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:23:02 - INFO - Count: 280	Score: [35, 5, 35, 65, 5]
+20260724 17:23:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:23:36 - INFO - Count: 281	Score: [35, 5, 35, 65, 35]
+20260724 17:24:12 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:24:12 - INFO - Count: 282	Score: [35, 5, 35, 65, 65]
+20260724 17:24:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:24:47 - INFO - Count: 283	Score: [35, 5, 35, 65, 95]
+20260724 17:25:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:25:22 - INFO - Count: 284	Score: [35, 5, 35, 95, 5]
+20260724 17:25:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:25:59 - INFO - Count: 285	Score: [35, 5, 35, 95, 35]
+20260724 17:26:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:26:37 - INFO - Count: 286	Score: [35, 5, 35, 95, 65]
+20260724 17:27:12 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:27:12 - INFO - Count: 287	Score: [35, 5, 35, 95, 95]
+20260724 17:27:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:27:51 - INFO - Count: 288	Score: [35, 5, 65, 5, 5]
+20260724 17:28:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:28:27 - INFO - Count: 289	Score: [35, 5, 65, 5, 35]
+20260724 17:29:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:29:01 - INFO - Count: 290	Score: [35, 5, 65, 5, 65]
+20260724 17:29:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:29:37 - INFO - Count: 291	Score: [35, 5, 65, 5, 95]
+20260724 17:30:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:30:13 - INFO - Count: 292	Score: [35, 5, 65, 35, 5]
+20260724 17:30:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:30:47 - INFO - Count: 293	Score: [35, 5, 65, 35, 35]
+20260724 17:31:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:31:22 - INFO - Count: 294	Score: [35, 5, 65, 35, 65]
+20260724 17:31:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:31:55 - INFO - Count: 295	Score: [35, 5, 65, 35, 95]
+20260724 17:32:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:32:31 - INFO - Count: 296	Score: [35, 5, 65, 65, 5]
+20260724 17:33:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:33:08 - INFO - Count: 297	Score: [35, 5, 65, 65, 35]
+20260724 17:33:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:33:42 - INFO - Count: 298	Score: [35, 5, 65, 65, 65]
+20260724 17:34:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:34:17 - INFO - Count: 299	Score: [35, 5, 65, 65, 95]
+20260724 17:34:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:34:55 - INFO - Count: 300	Score: [35, 5, 65, 95, 5]
+20260724 17:35:30 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:35:30 - INFO - Output batch 2 to data/gemma4_e4b_00/test_q_0002.jsonl
+20260724 17:35:30 - INFO - Count: 301	Score: [35, 5, 65, 95, 35]
+20260724 17:36:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:36:06 - INFO - Count: 302	Score: [35, 5, 65, 95, 65]
+20260724 17:36:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:36:40 - INFO - Count: 303	Score: [35, 5, 65, 95, 95]
+20260724 17:37:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:37:16 - INFO - Count: 304	Score: [35, 5, 95, 5, 5]
+20260724 17:37:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:37:54 - INFO - Count: 305	Score: [35, 5, 95, 5, 35]
+20260724 17:38:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:38:31 - INFO - Count: 306	Score: [35, 5, 95, 5, 65]
+20260724 17:39:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:39:07 - INFO - Count: 307	Score: [35, 5, 95, 5, 95]
+20260724 17:39:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:39:40 - INFO - Count: 308	Score: [35, 5, 95, 35, 5]
+20260724 17:40:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:40:16 - INFO - Count: 309	Score: [35, 5, 95, 35, 35]
+20260724 17:40:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:40:53 - INFO - Count: 310	Score: [35, 5, 95, 35, 65]
+20260724 17:41:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:41:29 - INFO - Count: 311	Score: [35, 5, 95, 35, 95]
+20260724 17:42:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:42:05 - INFO - Count: 312	Score: [35, 5, 95, 65, 5]
+20260724 17:42:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:42:42 - INFO - Count: 313	Score: [35, 5, 95, 65, 35]
+20260724 17:43:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:43:16 - INFO - Count: 314	Score: [35, 5, 95, 65, 65]
+20260724 17:43:52 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:43:52 - INFO - Count: 315	Score: [35, 5, 95, 65, 95]
+20260724 17:44:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:44:29 - INFO - Count: 316	Score: [35, 5, 95, 95, 5]
+20260724 17:45:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:45:04 - INFO - Count: 317	Score: [35, 5, 95, 95, 35]
+20260724 17:45:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:45:40 - INFO - Count: 318	Score: [35, 5, 95, 95, 65]
+20260724 17:46:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:46:17 - INFO - Count: 319	Score: [35, 5, 95, 95, 95]
+20260724 17:46:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:46:55 - INFO - Count: 320	Score: [35, 35, 5, 5, 5]
+20260724 17:47:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:47:31 - INFO - Count: 321	Score: [35, 35, 5, 5, 35]
+20260724 17:48:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:48:01 - INFO - Count: 322	Score: [35, 35, 5, 5, 65]
+20260724 17:48:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:48:34 - INFO - Count: 323	Score: [35, 35, 5, 5, 95]
+20260724 17:49:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:49:08 - INFO - Count: 324	Score: [35, 35, 5, 35, 5]
+20260724 17:49:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:49:39 - INFO - Count: 325	Score: [35, 35, 5, 35, 35]
+20260724 17:50:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:50:15 - INFO - Count: 326	Score: [35, 35, 5, 35, 65]
+20260724 17:50:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:50:51 - INFO - Count: 327	Score: [35, 35, 5, 35, 95]
+20260724 17:51:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:51:25 - INFO - Count: 328	Score: [35, 35, 5, 65, 5]
+20260724 17:52:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:52:00 - INFO - Count: 329	Score: [35, 35, 5, 65, 35]
+20260724 17:52:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:52:33 - INFO - Count: 330	Score: [35, 35, 5, 65, 65]
+20260724 17:53:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:53:07 - INFO - Count: 331	Score: [35, 35, 5, 65, 95]
+20260724 17:53:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:53:42 - INFO - Count: 332	Score: [35, 35, 5, 95, 5]
+20260724 17:54:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:54:15 - INFO - Count: 333	Score: [35, 35, 5, 95, 35]
+20260724 17:54:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:54:50 - INFO - Count: 334	Score: [35, 35, 5, 95, 65]
+20260724 17:55:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:55:23 - INFO - Count: 335	Score: [35, 35, 5, 95, 95]
+20260724 17:56:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:56:00 - INFO - Count: 336	Score: [35, 35, 35, 5, 5]
+20260724 17:56:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:56:37 - INFO - Count: 337	Score: [35, 35, 35, 5, 35]
+20260724 17:57:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:57:10 - INFO - Count: 338	Score: [35, 35, 35, 5, 65]
+20260724 17:57:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:57:48 - INFO - Count: 339	Score: [35, 35, 35, 5, 95]
+20260724 17:58:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:58:20 - INFO - Count: 340	Score: [35, 35, 35, 35, 5]
+20260724 17:58:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:58:59 - INFO - Count: 341	Score: [35, 35, 35, 35, 35]
+20260724 17:59:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 17:59:38 - INFO - Count: 342	Score: [35, 35, 35, 35, 65]
+20260724 18:00:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:00:14 - INFO - Count: 343	Score: [35, 35, 35, 35, 95]
+20260724 18:00:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:00:47 - INFO - Count: 344	Score: [35, 35, 35, 65, 5]
+20260724 18:01:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:01:23 - INFO - Count: 345	Score: [35, 35, 35, 65, 35]
+20260724 18:01:57 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:01:57 - INFO - Count: 346	Score: [35, 35, 35, 65, 65]
+20260724 18:02:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:02:31 - INFO - Count: 347	Score: [35, 35, 35, 65, 95]
+20260724 18:03:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:03:05 - INFO - Count: 348	Score: [35, 35, 35, 95, 5]
+20260724 18:03:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:03:41 - INFO - Count: 349	Score: [35, 35, 35, 95, 35]
+20260724 18:04:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:04:16 - INFO - Count: 350	Score: [35, 35, 35, 95, 65]
+20260724 18:04:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:04:50 - INFO - Count: 351	Score: [35, 35, 35, 95, 95]
+20260724 18:05:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:05:25 - INFO - Count: 352	Score: [35, 35, 65, 5, 5]
+20260724 18:05:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:05:59 - INFO - Count: 353	Score: [35, 35, 65, 5, 35]
+20260724 18:06:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:06:29 - INFO - Count: 354	Score: [35, 35, 65, 5, 65]
+20260724 18:07:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:07:04 - INFO - Count: 355	Score: [35, 35, 65, 5, 95]
+20260724 18:07:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:07:39 - INFO - Count: 356	Score: [35, 35, 65, 35, 5]
+20260724 18:08:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:08:15 - INFO - Count: 357	Score: [35, 35, 65, 35, 35]
+20260724 18:08:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:08:49 - INFO - Count: 358	Score: [35, 35, 65, 35, 65]
+20260724 18:09:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:09:24 - INFO - Count: 359	Score: [35, 35, 65, 35, 95]
+20260724 18:09:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:09:59 - INFO - Count: 360	Score: [35, 35, 65, 65, 5]
+20260724 18:10:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:10:32 - INFO - Count: 361	Score: [35, 35, 65, 65, 35]
+20260724 18:11:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:11:06 - INFO - Count: 362	Score: [35, 35, 65, 65, 65]
+20260724 18:11:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:11:42 - INFO - Count: 363	Score: [35, 35, 65, 65, 95]
+20260724 18:12:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:12:19 - INFO - Count: 364	Score: [35, 35, 65, 95, 5]
+20260724 18:12:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:12:53 - INFO - Count: 365	Score: [35, 35, 65, 95, 35]
+20260724 18:13:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:13:26 - INFO - Count: 366	Score: [35, 35, 65, 95, 65]
+20260724 18:14:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:14:02 - INFO - Count: 367	Score: [35, 35, 65, 95, 95]
+20260724 18:14:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:14:39 - INFO - Count: 368	Score: [35, 35, 95, 5, 5]
+20260724 18:15:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:15:13 - INFO - Count: 369	Score: [35, 35, 95, 5, 35]
+20260724 18:15:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:15:48 - INFO - Count: 370	Score: [35, 35, 95, 5, 65]
+20260724 18:16:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:16:23 - INFO - Count: 371	Score: [35, 35, 95, 5, 95]
+20260724 18:17:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:17:00 - INFO - Count: 372	Score: [35, 35, 95, 35, 5]
+20260724 18:17:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:17:33 - INFO - Count: 373	Score: [35, 35, 95, 35, 35]
+20260724 18:18:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:18:08 - INFO - Count: 374	Score: [35, 35, 95, 35, 65]
+20260724 18:18:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:18:42 - INFO - Count: 375	Score: [35, 35, 95, 35, 95]
+20260724 18:19:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:19:19 - INFO - Count: 376	Score: [35, 35, 95, 65, 5]
+20260724 18:19:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:19:54 - INFO - Count: 377	Score: [35, 35, 95, 65, 35]
+20260724 18:20:30 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:20:30 - INFO - Count: 378	Score: [35, 35, 95, 65, 65]
+20260724 18:21:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:21:06 - INFO - Count: 379	Score: [35, 35, 95, 65, 95]
+20260724 18:21:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:21:41 - INFO - Count: 380	Score: [35, 35, 95, 95, 5]
+20260724 18:22:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:22:16 - INFO - Count: 381	Score: [35, 35, 95, 95, 35]
+20260724 18:22:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:22:50 - INFO - Count: 382	Score: [35, 35, 95, 95, 65]
+20260724 18:23:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:23:27 - INFO - Count: 383	Score: [35, 35, 95, 95, 95]
+20260724 18:24:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:24:03 - INFO - Count: 384	Score: [35, 65, 5, 5, 5]
+20260724 18:24:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:24:35 - INFO - Count: 385	Score: [35, 65, 5, 5, 35]
+20260724 18:25:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:25:11 - INFO - Count: 386	Score: [35, 65, 5, 5, 65]
+20260724 18:25:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:25:47 - INFO - Count: 387	Score: [35, 65, 5, 5, 95]
+20260724 18:26:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:26:25 - INFO - Count: 388	Score: [35, 65, 5, 35, 5]
+20260724 18:26:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:26:58 - INFO - Count: 389	Score: [35, 65, 5, 35, 35]
+20260724 18:27:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:27:32 - INFO - Count: 390	Score: [35, 65, 5, 35, 65]
+20260724 18:28:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:28:07 - INFO - Count: 391	Score: [35, 65, 5, 35, 95]
+20260724 18:28:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:28:41 - INFO - Count: 392	Score: [35, 65, 5, 65, 5]
+20260724 18:29:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:29:15 - INFO - Count: 393	Score: [35, 65, 5, 65, 35]
+20260724 18:29:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:29:49 - INFO - Count: 394	Score: [35, 65, 5, 65, 65]
+20260724 18:30:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:30:23 - INFO - Count: 395	Score: [35, 65, 5, 65, 95]
+20260724 18:30:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:30:56 - INFO - Count: 396	Score: [35, 65, 5, 95, 5]
+20260724 18:31:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:31:31 - INFO - Count: 397	Score: [35, 65, 5, 95, 35]
+20260724 18:32:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:32:04 - INFO - Count: 398	Score: [35, 65, 5, 95, 65]
+20260724 18:32:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:32:38 - INFO - Count: 399	Score: [35, 65, 5, 95, 95]
+20260724 18:33:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:33:15 - INFO - Count: 400	Score: [35, 65, 35, 5, 5]
+20260724 18:33:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:33:47 - INFO - Output batch 3 to data/gemma4_e4b_00/test_q_0003.jsonl
+20260724 18:33:47 - INFO - Count: 401	Score: [35, 65, 35, 5, 35]
+20260724 18:34:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:34:20 - INFO - Count: 402	Score: [35, 65, 35, 5, 65]
+20260724 18:34:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:34:54 - INFO - Count: 403	Score: [35, 65, 35, 5, 95]
+20260724 18:35:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:35:29 - INFO - Count: 404	Score: [35, 65, 35, 35, 5]
+20260724 18:36:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:36:05 - INFO - Count: 405	Score: [35, 65, 35, 35, 35]
+20260724 18:36:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:36:38 - INFO - Count: 406	Score: [35, 65, 35, 35, 65]
+20260724 18:37:12 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:37:12 - INFO - Count: 407	Score: [35, 65, 35, 35, 95]
+20260724 18:37:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:37:47 - INFO - Count: 408	Score: [35, 65, 35, 65, 5]
+20260724 18:38:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:38:22 - INFO - Count: 409	Score: [35, 65, 35, 65, 35]
+20260724 18:38:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:38:55 - INFO - Count: 410	Score: [35, 65, 35, 65, 65]
+20260724 18:39:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:39:27 - INFO - Count: 411	Score: [35, 65, 35, 65, 95]
+20260724 18:40:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:40:03 - INFO - Count: 412	Score: [35, 65, 35, 95, 5]
+20260724 18:40:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:40:37 - INFO - Count: 413	Score: [35, 65, 35, 95, 35]
+20260724 18:41:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:41:13 - INFO - Count: 414	Score: [35, 65, 35, 95, 65]
+20260724 18:41:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:41:46 - INFO - Count: 415	Score: [35, 65, 35, 95, 95]
+20260724 18:42:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:42:22 - INFO - Count: 416	Score: [35, 65, 65, 5, 5]
+20260724 18:42:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:42:58 - INFO - Count: 417	Score: [35, 65, 65, 5, 35]
+20260724 18:43:30 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:43:30 - INFO - Count: 418	Score: [35, 65, 65, 5, 65]
+20260724 18:44:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:44:03 - INFO - Count: 419	Score: [35, 65, 65, 5, 95]
+20260724 18:44:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:44:40 - INFO - Count: 420	Score: [35, 65, 65, 35, 5]
+20260724 18:45:12 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:45:12 - INFO - Count: 421	Score: [35, 65, 65, 35, 35]
+20260724 18:45:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:45:45 - INFO - Count: 422	Score: [35, 65, 65, 35, 65]
+20260724 18:46:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:46:20 - INFO - Count: 423	Score: [35, 65, 65, 35, 95]
+20260724 18:46:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:46:55 - INFO - Count: 424	Score: [35, 65, 65, 65, 5]
+20260724 18:47:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:47:28 - INFO - Count: 425	Score: [35, 65, 65, 65, 35]
+20260724 18:48:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:48:00 - INFO - Count: 426	Score: [35, 65, 65, 65, 65]
+20260724 18:48:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:48:35 - INFO - Count: 427	Score: [35, 65, 65, 65, 95]
+20260724 18:49:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:49:11 - INFO - Count: 428	Score: [35, 65, 65, 95, 5]
+20260724 18:49:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:49:48 - INFO - Count: 429	Score: [35, 65, 65, 95, 35]
+20260724 18:50:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:50:22 - INFO - Count: 430	Score: [35, 65, 65, 95, 65]
+20260724 18:50:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:50:55 - INFO - Count: 431	Score: [35, 65, 65, 95, 95]
+20260724 18:51:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:51:31 - INFO - Count: 432	Score: [35, 65, 95, 5, 5]
+20260724 18:52:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:52:04 - INFO - Count: 433	Score: [35, 65, 95, 5, 35]
+20260724 18:52:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:52:38 - INFO - Count: 434	Score: [35, 65, 95, 5, 65]
+20260724 18:53:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:53:14 - INFO - Count: 435	Score: [35, 65, 95, 5, 95]
+20260724 18:53:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:53:49 - INFO - Count: 436	Score: [35, 65, 95, 35, 5]
+20260724 18:54:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:54:26 - INFO - Count: 437	Score: [35, 65, 95, 35, 35]
+20260724 18:55:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:55:01 - INFO - Count: 438	Score: [35, 65, 95, 35, 65]
+20260724 18:55:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:55:36 - INFO - Count: 439	Score: [35, 65, 95, 35, 95]
+20260724 18:56:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:56:10 - INFO - Count: 440	Score: [35, 65, 95, 65, 5]
+20260724 18:56:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:56:44 - INFO - Count: 441	Score: [35, 65, 95, 65, 35]
+20260724 18:57:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:57:17 - INFO - Count: 442	Score: [35, 65, 95, 65, 65]
+20260724 18:57:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:57:54 - INFO - Count: 443	Score: [35, 65, 95, 65, 95]
+20260724 18:58:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:58:31 - INFO - Count: 444	Score: [35, 65, 95, 95, 5]
+20260724 18:59:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:59:04 - INFO - Count: 445	Score: [35, 65, 95, 95, 35]
+20260724 18:59:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 18:59:36 - INFO - Count: 446	Score: [35, 65, 95, 95, 65]
+20260724 19:00:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:00:09 - INFO - Count: 447	Score: [35, 65, 95, 95, 95]
+20260724 19:00:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:00:46 - INFO - Count: 448	Score: [35, 95, 5, 5, 5]
+20260724 19:01:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:01:18 - INFO - Count: 449	Score: [35, 95, 5, 5, 35]
+20260724 19:01:52 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:01:52 - INFO - Count: 450	Score: [35, 95, 5, 5, 65]
+20260724 19:02:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:02:27 - INFO - Count: 451	Score: [35, 95, 5, 5, 95]
+20260724 19:03:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:03:01 - INFO - Count: 452	Score: [35, 95, 5, 35, 5]
+20260724 19:03:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:03:35 - INFO - Count: 453	Score: [35, 95, 5, 35, 35]
+20260724 19:04:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:04:09 - INFO - Count: 454	Score: [35, 95, 5, 35, 65]
+20260724 19:04:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:04:45 - INFO - Count: 455	Score: [35, 95, 5, 35, 95]
+20260724 19:05:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:05:22 - INFO - Count: 456	Score: [35, 95, 5, 65, 5]
+20260724 19:05:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:05:54 - INFO - Count: 457	Score: [35, 95, 5, 65, 35]
+20260724 19:06:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:06:28 - INFO - Count: 458	Score: [35, 95, 5, 65, 65]
+20260724 19:07:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:07:03 - INFO - Count: 459	Score: [35, 95, 5, 65, 95]
+20260724 19:07:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:07:39 - INFO - Count: 460	Score: [35, 95, 5, 95, 5]
+20260724 19:08:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:08:13 - INFO - Count: 461	Score: [35, 95, 5, 95, 35]
+20260724 19:08:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:08:47 - INFO - Count: 462	Score: [35, 95, 5, 95, 65]
+20260724 19:09:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:09:21 - INFO - Count: 463	Score: [35, 95, 5, 95, 95]
+20260724 19:09:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:09:55 - INFO - Count: 464	Score: [35, 95, 35, 5, 5]
+20260724 19:10:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:10:32 - INFO - Count: 465	Score: [35, 95, 35, 5, 35]
+20260724 19:11:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:11:02 - INFO - Count: 466	Score: [35, 95, 35, 5, 65]
+20260724 19:11:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:11:37 - INFO - Count: 467	Score: [35, 95, 35, 5, 95]
+20260724 19:12:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:12:13 - INFO - Count: 468	Score: [35, 95, 35, 35, 5]
+20260724 19:12:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:12:47 - INFO - Count: 469	Score: [35, 95, 35, 35, 35]
+20260724 19:13:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:13:23 - INFO - Count: 470	Score: [35, 95, 35, 35, 65]
+20260724 19:13:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:13:58 - INFO - Count: 471	Score: [35, 95, 35, 35, 95]
+20260724 19:14:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:14:32 - INFO - Count: 472	Score: [35, 95, 35, 65, 5]
+20260724 19:15:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:15:07 - INFO - Count: 473	Score: [35, 95, 35, 65, 35]
+20260724 19:15:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:15:40 - INFO - Count: 474	Score: [35, 95, 35, 65, 65]
+20260724 19:16:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:16:15 - INFO - Count: 475	Score: [35, 95, 35, 65, 95]
+20260724 19:16:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:16:51 - INFO - Count: 476	Score: [35, 95, 35, 95, 5]
+20260724 19:17:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:17:24 - INFO - Count: 477	Score: [35, 95, 35, 95, 35]
+20260724 19:17:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:17:56 - INFO - Count: 478	Score: [35, 95, 35, 95, 65]
+20260724 19:18:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:18:31 - INFO - Count: 479	Score: [35, 95, 35, 95, 95]
+20260724 19:19:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:19:06 - INFO - Count: 480	Score: [35, 95, 65, 5, 5]
+20260724 19:19:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:19:41 - INFO - Count: 481	Score: [35, 95, 65, 5, 35]
+20260724 19:20:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:20:16 - INFO - Count: 482	Score: [35, 95, 65, 5, 65]
+20260724 19:20:52 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:20:52 - INFO - Count: 483	Score: [35, 95, 65, 5, 95]
+20260724 19:21:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:21:27 - INFO - Count: 484	Score: [35, 95, 65, 35, 5]
+20260724 19:22:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:22:03 - INFO - Count: 485	Score: [35, 95, 65, 35, 35]
+20260724 19:22:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:22:37 - INFO - Count: 486	Score: [35, 95, 65, 35, 65]
+20260724 19:23:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:23:10 - INFO - Count: 487	Score: [35, 95, 65, 35, 95]
+20260724 19:23:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:23:47 - INFO - Count: 488	Score: [35, 95, 65, 65, 5]
+20260724 19:24:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:24:22 - INFO - Count: 489	Score: [35, 95, 65, 65, 35]
+20260724 19:24:57 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:24:57 - INFO - Count: 490	Score: [35, 95, 65, 65, 65]
+20260724 19:25:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:25:29 - INFO - Count: 491	Score: [35, 95, 65, 65, 95]
+20260724 19:26:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:26:06 - INFO - Count: 492	Score: [35, 95, 65, 95, 5]
+20260724 19:26:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:26:40 - INFO - Count: 493	Score: [35, 95, 65, 95, 35]
+20260724 19:27:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:27:14 - INFO - Count: 494	Score: [35, 95, 65, 95, 65]
+20260724 19:27:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:27:46 - INFO - Count: 495	Score: [35, 95, 65, 95, 95]
+20260724 19:28:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:28:21 - INFO - Count: 496	Score: [35, 95, 95, 5, 5]
+20260724 19:28:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:28:56 - INFO - Count: 497	Score: [35, 95, 95, 5, 35]
+20260724 19:29:30 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:29:30 - INFO - Count: 498	Score: [35, 95, 95, 5, 65]
+20260724 19:30:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:30:05 - INFO - Count: 499	Score: [35, 95, 95, 5, 95]
+20260724 19:30:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:30:41 - INFO - Count: 500	Score: [35, 95, 95, 35, 5]
+20260724 19:31:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:31:13 - INFO - Output batch 4 to data/gemma4_e4b_00/test_q_0004.jsonl
+20260724 19:31:13 - INFO - Count: 501	Score: [35, 95, 95, 35, 35]
+20260724 19:31:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:31:49 - INFO - Count: 502	Score: [35, 95, 95, 35, 65]
+20260724 19:32:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:32:24 - INFO - Count: 503	Score: [35, 95, 95, 35, 95]
+20260724 19:32:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:32:59 - INFO - Count: 504	Score: [35, 95, 95, 65, 5]
+20260724 19:33:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:33:35 - INFO - Count: 505	Score: [35, 95, 95, 65, 35]
+20260724 19:34:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:34:08 - INFO - Count: 506	Score: [35, 95, 95, 65, 65]
+20260724 19:34:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:34:41 - INFO - Count: 507	Score: [35, 95, 95, 65, 95]
+20260724 19:35:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:35:16 - INFO - Count: 508	Score: [35, 95, 95, 95, 5]
+20260724 19:35:52 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:35:52 - INFO - Count: 509	Score: [35, 95, 95, 95, 35]
+20260724 19:36:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:36:25 - INFO - Count: 510	Score: [35, 95, 95, 95, 65]
+20260724 19:37:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:37:00 - INFO - Count: 511	Score: [35, 95, 95, 95, 95]
+20260724 19:37:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:37:37 - INFO - Count: 512	Score: [65, 5, 5, 5, 5]
+20260724 19:38:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:38:11 - INFO - Count: 513	Score: [65, 5, 5, 5, 35]
+20260724 19:38:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:38:45 - INFO - Count: 514	Score: [65, 5, 5, 5, 65]
+20260724 19:39:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:39:20 - INFO - Count: 515	Score: [65, 5, 5, 5, 95]
+20260724 19:39:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:39:54 - INFO - Count: 516	Score: [65, 5, 5, 35, 5]
+20260724 19:40:30 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:40:30 - INFO - Count: 517	Score: [65, 5, 5, 35, 35]
+20260724 19:41:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:41:05 - INFO - Count: 518	Score: [65, 5, 5, 35, 65]
+20260724 19:41:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:41:39 - INFO - Count: 519	Score: [65, 5, 5, 35, 95]
+20260724 19:42:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:42:11 - INFO - Count: 520	Score: [65, 5, 5, 65, 5]
+20260724 19:42:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:42:44 - INFO - Count: 521	Score: [65, 5, 5, 65, 35]
+20260724 19:43:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:43:16 - INFO - Count: 522	Score: [65, 5, 5, 65, 65]
+20260724 19:43:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:43:48 - INFO - Count: 523	Score: [65, 5, 5, 65, 95]
+20260724 19:44:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:44:21 - INFO - Count: 524	Score: [65, 5, 5, 95, 5]
+20260724 19:44:57 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:44:57 - INFO - Count: 525	Score: [65, 5, 5, 95, 35]
+20260724 19:45:30 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:45:30 - INFO - Count: 526	Score: [65, 5, 5, 95, 65]
+20260724 19:46:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:46:05 - INFO - Count: 527	Score: [65, 5, 5, 95, 95]
+20260724 19:46:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:46:43 - INFO - Count: 528	Score: [65, 5, 35, 5, 5]
+20260724 19:47:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:47:16 - INFO - Count: 529	Score: [65, 5, 35, 5, 35]
+20260724 19:47:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:47:49 - INFO - Count: 530	Score: [65, 5, 35, 5, 65]
+20260724 19:48:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:48:23 - INFO - Count: 531	Score: [65, 5, 35, 5, 95]
+20260724 19:48:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:48:58 - INFO - Count: 532	Score: [65, 5, 35, 35, 5]
+20260724 19:49:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:49:31 - INFO - Count: 533	Score: [65, 5, 35, 35, 35]
+20260724 19:50:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:50:04 - INFO - Count: 534	Score: [65, 5, 35, 35, 65]
+20260724 19:50:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:50:36 - INFO - Count: 535	Score: [65, 5, 35, 35, 95]
+20260724 19:51:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:51:10 - INFO - Count: 536	Score: [65, 5, 35, 65, 5]
+20260724 19:51:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:51:43 - INFO - Count: 537	Score: [65, 5, 35, 65, 35]
+20260724 19:52:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:52:18 - INFO - Count: 538	Score: [65, 5, 35, 65, 65]
+20260724 19:52:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:52:54 - INFO - Count: 539	Score: [65, 5, 35, 65, 95]
+20260724 19:53:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:53:28 - INFO - Count: 540	Score: [65, 5, 35, 95, 5]
+20260724 19:54:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:54:04 - INFO - Count: 541	Score: [65, 5, 35, 95, 35]
+20260724 19:54:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:54:39 - INFO - Count: 542	Score: [65, 5, 35, 95, 65]
+20260724 19:55:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:55:15 - INFO - Count: 543	Score: [65, 5, 35, 95, 95]
+20260724 19:55:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:55:49 - INFO - Count: 544	Score: [65, 5, 65, 5, 5]
+20260724 19:56:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:56:23 - INFO - Count: 545	Score: [65, 5, 65, 5, 35]
+20260724 19:56:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:56:58 - INFO - Count: 546	Score: [65, 5, 65, 5, 65]
+20260724 19:57:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:57:32 - INFO - Count: 547	Score: [65, 5, 65, 5, 95]
+20260724 19:58:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:58:09 - INFO - Count: 548	Score: [65, 5, 65, 35, 5]
+20260724 19:58:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:58:44 - INFO - Count: 549	Score: [65, 5, 65, 35, 35]
+20260724 19:59:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:59:18 - INFO - Count: 550	Score: [65, 5, 65, 35, 65]
+20260724 19:59:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 19:59:51 - INFO - Count: 551	Score: [65, 5, 65, 35, 95]
+20260724 20:00:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:00:26 - INFO - Count: 552	Score: [65, 5, 65, 65, 5]
+20260724 20:01:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:01:02 - INFO - Count: 553	Score: [65, 5, 65, 65, 35]
+20260724 20:01:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:01:36 - INFO - Count: 554	Score: [65, 5, 65, 65, 65]
+20260724 20:02:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:02:11 - INFO - Count: 555	Score: [65, 5, 65, 65, 95]
+20260724 20:02:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:02:45 - INFO - Count: 556	Score: [65, 5, 65, 95, 5]
+20260724 20:03:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:03:21 - INFO - Count: 557	Score: [65, 5, 65, 95, 35]
+20260724 20:03:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:03:55 - INFO - Count: 558	Score: [65, 5, 65, 95, 65]
+20260724 20:04:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:04:32 - INFO - Count: 559	Score: [65, 5, 65, 95, 95]
+20260724 20:05:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:05:06 - INFO - Count: 560	Score: [65, 5, 95, 5, 5]
+20260724 20:05:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:05:41 - INFO - Count: 561	Score: [65, 5, 95, 5, 35]
+20260724 20:06:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:06:14 - INFO - Count: 562	Score: [65, 5, 95, 5, 65]
+20260724 20:06:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:06:45 - INFO - Count: 563	Score: [65, 5, 95, 5, 95]
+20260724 20:07:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:07:22 - INFO - Count: 564	Score: [65, 5, 95, 35, 5]
+20260724 20:07:57 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:07:57 - INFO - Count: 565	Score: [65, 5, 95, 35, 35]
+20260724 20:08:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:08:31 - INFO - Count: 566	Score: [65, 5, 95, 35, 65]
+20260724 20:09:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:09:09 - INFO - Count: 567	Score: [65, 5, 95, 35, 95]
+20260724 20:09:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:09:44 - INFO - Count: 568	Score: [65, 5, 95, 65, 5]
+20260724 20:10:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:10:18 - INFO - Count: 569	Score: [65, 5, 95, 65, 35]
+20260724 20:10:52 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:10:52 - INFO - Count: 570	Score: [65, 5, 95, 65, 65]
+20260724 20:11:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:11:26 - INFO - Count: 571	Score: [65, 5, 95, 65, 95]
+20260724 20:12:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:12:01 - INFO - Count: 572	Score: [65, 5, 95, 95, 5]
+20260724 20:12:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:12:36 - INFO - Count: 573	Score: [65, 5, 95, 95, 35]
+20260724 20:13:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:13:09 - INFO - Count: 574	Score: [65, 5, 95, 95, 65]
+20260724 20:13:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:13:44 - INFO - Count: 575	Score: [65, 5, 95, 95, 95]
+20260724 20:14:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:14:18 - INFO - Count: 576	Score: [65, 35, 5, 5, 5]
+20260724 20:14:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:14:53 - INFO - Count: 577	Score: [65, 35, 5, 5, 35]
+20260724 20:15:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:15:27 - INFO - Count: 578	Score: [65, 35, 5, 5, 65]
+20260724 20:16:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:16:01 - INFO - Count: 579	Score: [65, 35, 5, 5, 95]
+20260724 20:16:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:16:33 - INFO - Count: 580	Score: [65, 35, 5, 35, 5]
+20260724 20:17:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:17:08 - INFO - Count: 581	Score: [65, 35, 5, 35, 35]
+20260724 20:17:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:17:42 - INFO - Count: 582	Score: [65, 35, 5, 35, 65]
+20260724 20:18:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:18:17 - INFO - Count: 583	Score: [65, 35, 5, 35, 95]
+20260724 20:18:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:18:51 - INFO - Count: 584	Score: [65, 35, 5, 65, 5]
+20260724 20:19:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:19:27 - INFO - Count: 585	Score: [65, 35, 5, 65, 35]
+20260724 20:20:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:20:01 - INFO - Count: 586	Score: [65, 35, 5, 65, 65]
+20260724 20:20:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:20:34 - INFO - Count: 587	Score: [65, 35, 5, 65, 95]
+20260724 20:21:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:21:10 - INFO - Count: 588	Score: [65, 35, 5, 95, 5]
+20260724 20:21:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:21:44 - INFO - Count: 589	Score: [65, 35, 5, 95, 35]
+20260724 20:22:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:22:21 - INFO - Count: 590	Score: [65, 35, 5, 95, 65]
+20260724 20:22:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:22:56 - INFO - Count: 591	Score: [65, 35, 5, 95, 95]
+20260724 20:23:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:23:34 - INFO - Count: 592	Score: [65, 35, 35, 5, 5]
+20260724 20:24:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:24:08 - INFO - Count: 593	Score: [65, 35, 35, 5, 35]
+20260724 20:24:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:24:41 - INFO - Count: 594	Score: [65, 35, 35, 5, 65]
+20260724 20:25:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:25:11 - INFO - Count: 595	Score: [65, 35, 35, 5, 95]
+20260724 20:25:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:25:46 - INFO - Count: 596	Score: [65, 35, 35, 35, 5]
+20260724 20:26:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:26:23 - INFO - Count: 597	Score: [65, 35, 35, 35, 35]
+20260724 20:26:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:26:54 - INFO - Count: 598	Score: [65, 35, 35, 35, 65]
+20260724 20:27:30 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:27:30 - INFO - Count: 599	Score: [65, 35, 35, 35, 95]
+20260724 20:28:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:28:06 - INFO - Count: 600	Score: [65, 35, 35, 65, 5]
+20260724 20:28:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:28:35 - INFO - Output batch 5 to data/gemma4_e4b_00/test_q_0005.jsonl
+20260724 20:28:35 - INFO - Count: 601	Score: [65, 35, 35, 65, 35]
+20260724 20:29:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:29:09 - INFO - Count: 602	Score: [65, 35, 35, 65, 65]
+20260724 20:29:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:29:43 - INFO - Count: 603	Score: [65, 35, 35, 65, 95]
+20260724 20:30:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:30:19 - INFO - Count: 604	Score: [65, 35, 35, 95, 5]
+20260724 20:30:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:30:53 - INFO - Count: 605	Score: [65, 35, 35, 95, 35]
+20260724 20:31:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:31:28 - INFO - Count: 606	Score: [65, 35, 35, 95, 65]
+20260724 20:32:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:32:04 - INFO - Count: 607	Score: [65, 35, 35, 95, 95]
+20260724 20:32:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:32:35 - INFO - Count: 608	Score: [65, 35, 65, 5, 5]
+20260724 20:33:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:33:11 - INFO - Count: 609	Score: [65, 35, 65, 5, 35]
+20260724 20:33:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:33:45 - INFO - Count: 610	Score: [65, 35, 65, 5, 65]
+20260724 20:34:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:34:19 - INFO - Count: 611	Score: [65, 35, 65, 5, 95]
+20260724 20:34:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:34:53 - INFO - Count: 612	Score: [65, 35, 65, 35, 5]
+20260724 20:35:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:35:29 - INFO - Count: 613	Score: [65, 35, 65, 35, 35]
+20260724 20:36:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:36:04 - INFO - Count: 614	Score: [65, 35, 65, 35, 65]
+20260724 20:36:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:36:35 - INFO - Count: 615	Score: [65, 35, 65, 35, 95]
+20260724 20:37:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:37:10 - INFO - Count: 616	Score: [65, 35, 65, 65, 5]
+20260724 20:37:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:37:46 - INFO - Count: 617	Score: [65, 35, 65, 65, 35]
+20260724 20:38:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:38:20 - INFO - Count: 618	Score: [65, 35, 65, 65, 65]
+20260724 20:38:57 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:38:57 - INFO - Count: 619	Score: [65, 35, 65, 65, 95]
+20260724 20:39:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:39:32 - INFO - Count: 620	Score: [65, 35, 65, 95, 5]
+20260724 20:40:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:40:07 - INFO - Count: 621	Score: [65, 35, 65, 95, 35]
+20260724 20:40:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:40:41 - INFO - Count: 622	Score: [65, 35, 65, 95, 65]
+20260724 20:41:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:41:17 - INFO - Count: 623	Score: [65, 35, 65, 95, 95]
+20260724 20:41:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:41:53 - INFO - Count: 624	Score: [65, 35, 95, 5, 5]
+20260724 20:42:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:42:28 - INFO - Count: 625	Score: [65, 35, 95, 5, 35]
+20260724 20:43:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:43:00 - INFO - Count: 626	Score: [65, 35, 95, 5, 65]
+20260724 20:43:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:43:36 - INFO - Count: 627	Score: [65, 35, 95, 5, 95]
+20260724 20:44:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:44:14 - INFO - Count: 628	Score: [65, 35, 95, 35, 5]
+20260724 20:44:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:44:50 - INFO - Count: 629	Score: [65, 35, 95, 35, 35]
+20260724 20:45:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:45:26 - INFO - Count: 630	Score: [65, 35, 95, 35, 65]
+20260724 20:45:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:45:58 - INFO - Count: 631	Score: [65, 35, 95, 35, 95]
+20260724 20:46:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:46:35 - INFO - Count: 632	Score: [65, 35, 95, 65, 5]
+20260724 20:47:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:47:08 - INFO - Count: 633	Score: [65, 35, 95, 65, 35]
+20260724 20:47:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:47:42 - INFO - Count: 634	Score: [65, 35, 95, 65, 65]
+20260724 20:48:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:48:18 - INFO - Count: 635	Score: [65, 35, 95, 65, 95]
+20260724 20:48:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:48:54 - INFO - Count: 636	Score: [65, 35, 95, 95, 5]
+20260724 20:49:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:49:27 - INFO - Count: 637	Score: [65, 35, 95, 95, 35]
+20260724 20:50:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:50:00 - INFO - Count: 638	Score: [65, 35, 95, 95, 65]
+20260724 20:50:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:50:34 - INFO - Count: 639	Score: [65, 35, 95, 95, 95]
+20260724 20:51:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:51:06 - INFO - Count: 640	Score: [65, 65, 5, 5, 5]
+20260724 20:51:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:51:42 - INFO - Count: 641	Score: [65, 65, 5, 5, 35]
+20260724 20:52:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:52:16 - INFO - Count: 642	Score: [65, 65, 5, 5, 65]
+20260724 20:52:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:52:50 - INFO - Count: 643	Score: [65, 65, 5, 5, 95]
+20260724 20:53:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:53:25 - INFO - Count: 644	Score: [65, 65, 5, 35, 5]
+20260724 20:53:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:53:59 - INFO - Count: 645	Score: [65, 65, 5, 35, 35]
+20260724 20:54:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:54:33 - INFO - Count: 646	Score: [65, 65, 5, 35, 65]
+20260724 20:55:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:55:05 - INFO - Count: 647	Score: [65, 65, 5, 35, 95]
+20260724 20:55:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:55:37 - INFO - Count: 648	Score: [65, 65, 5, 65, 5]
+20260724 20:56:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:56:11 - INFO - Count: 649	Score: [65, 65, 5, 65, 35]
+20260724 20:56:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:56:45 - INFO - Count: 650	Score: [65, 65, 5, 65, 65]
+20260724 20:57:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:57:18 - INFO - Count: 651	Score: [65, 65, 5, 65, 95]
+20260724 20:57:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:57:53 - INFO - Count: 652	Score: [65, 65, 5, 95, 5]
+20260724 20:58:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:58:27 - INFO - Count: 653	Score: [65, 65, 5, 95, 35]
+20260724 20:59:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:59:00 - INFO - Count: 654	Score: [65, 65, 5, 95, 65]
+20260724 20:59:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 20:59:33 - INFO - Count: 655	Score: [65, 65, 5, 95, 95]
+20260724 21:00:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:00:07 - INFO - Count: 656	Score: [65, 65, 35, 5, 5]
+20260724 21:00:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:00:40 - INFO - Count: 657	Score: [65, 65, 35, 5, 35]
+20260724 21:01:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:01:14 - INFO - Count: 658	Score: [65, 65, 35, 5, 65]
+20260724 21:01:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:01:50 - INFO - Count: 659	Score: [65, 65, 35, 5, 95]
+20260724 21:02:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:02:25 - INFO - Count: 660	Score: [65, 65, 35, 35, 5]
+20260724 21:03:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:03:01 - INFO - Count: 661	Score: [65, 65, 35, 35, 35]
+20260724 21:03:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:03:34 - INFO - Count: 662	Score: [65, 65, 35, 35, 65]
+20260724 21:04:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:04:07 - INFO - Count: 663	Score: [65, 65, 35, 35, 95]
+20260724 21:04:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:04:43 - INFO - Count: 664	Score: [65, 65, 35, 65, 5]
+20260724 21:05:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:05:19 - INFO - Count: 665	Score: [65, 65, 35, 65, 35]
+20260724 21:05:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:05:53 - INFO - Count: 666	Score: [65, 65, 35, 65, 65]
+20260724 21:06:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:06:26 - INFO - Count: 667	Score: [65, 65, 35, 65, 95]
+20260724 21:07:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:07:01 - INFO - Count: 668	Score: [65, 65, 35, 95, 5]
+20260724 21:07:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:07:35 - INFO - Count: 669	Score: [65, 65, 35, 95, 35]
+20260724 21:08:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:08:10 - INFO - Count: 670	Score: [65, 65, 35, 95, 65]
+20260724 21:08:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:08:45 - INFO - Count: 671	Score: [65, 65, 35, 95, 95]
+20260724 21:09:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:09:20 - INFO - Count: 672	Score: [65, 65, 65, 5, 5]
+20260724 21:09:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:09:53 - INFO - Count: 673	Score: [65, 65, 65, 5, 35]
+20260724 21:10:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:10:29 - INFO - Count: 674	Score: [65, 65, 65, 5, 65]
+20260724 21:11:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:11:01 - INFO - Count: 675	Score: [65, 65, 65, 5, 95]
+20260724 21:11:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:11:33 - INFO - Count: 676	Score: [65, 65, 65, 35, 5]
+20260724 21:12:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:12:01 - INFO - Count: 677	Score: [65, 65, 65, 35, 35]
+20260724 21:12:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:12:33 - INFO - Count: 678	Score: [65, 65, 65, 35, 65]
+20260724 21:13:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:13:06 - INFO - Count: 679	Score: [65, 65, 65, 35, 95]
+20260724 21:13:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:13:40 - INFO - Count: 680	Score: [65, 65, 65, 65, 5]
+20260724 21:14:12 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:14:12 - INFO - Count: 681	Score: [65, 65, 65, 65, 35]
+20260724 21:14:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:14:41 - INFO - Count: 682	Score: [65, 65, 65, 65, 65]
+20260724 21:15:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:15:19 - INFO - Count: 683	Score: [65, 65, 65, 65, 95]
+20260724 21:15:52 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:15:52 - INFO - Count: 684	Score: [65, 65, 65, 95, 5]
+20260724 21:16:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:16:28 - INFO - Count: 685	Score: [65, 65, 65, 95, 35]
+20260724 21:17:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:17:00 - INFO - Count: 686	Score: [65, 65, 65, 95, 65]
+20260724 21:17:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:17:34 - INFO - Count: 687	Score: [65, 65, 65, 95, 95]
+20260724 21:18:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:18:08 - INFO - Count: 688	Score: [65, 65, 95, 5, 5]
+20260724 21:18:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:18:44 - INFO - Count: 689	Score: [65, 65, 95, 5, 35]
+20260724 21:19:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:19:23 - INFO - Count: 690	Score: [65, 65, 95, 5, 65]
+20260724 21:19:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:19:58 - INFO - Count: 691	Score: [65, 65, 95, 5, 95]
+20260724 21:20:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:20:35 - INFO - Count: 692	Score: [65, 65, 95, 35, 5]
+20260724 21:21:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:21:09 - INFO - Count: 693	Score: [65, 65, 95, 35, 35]
+20260724 21:21:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:21:45 - INFO - Count: 694	Score: [65, 65, 95, 35, 65]
+20260724 21:22:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:22:21 - INFO - Count: 695	Score: [65, 65, 95, 35, 95]
+20260724 21:22:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:22:56 - INFO - Count: 696	Score: [65, 65, 95, 65, 5]
+20260724 21:23:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:23:27 - INFO - Count: 697	Score: [65, 65, 95, 65, 35]
+20260724 21:24:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:24:00 - INFO - Count: 698	Score: [65, 65, 95, 65, 65]
+20260724 21:24:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:24:34 - INFO - Count: 699	Score: [65, 65, 95, 65, 95]
+20260724 21:25:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:25:09 - INFO - Count: 700	Score: [65, 65, 95, 95, 5]
+20260724 21:25:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:25:43 - INFO - Output batch 6 to data/gemma4_e4b_00/test_q_0006.jsonl
+20260724 21:25:43 - INFO - Count: 701	Score: [65, 65, 95, 95, 35]
+20260724 21:26:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:26:18 - INFO - Count: 702	Score: [65, 65, 95, 95, 65]
+20260724 21:26:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:26:51 - INFO - Count: 703	Score: [65, 65, 95, 95, 95]
+20260724 21:27:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:27:25 - INFO - Count: 704	Score: [65, 95, 5, 5, 5]
+20260724 21:28:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:28:01 - INFO - Count: 705	Score: [65, 95, 5, 5, 35]
+20260724 21:28:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:28:36 - INFO - Count: 706	Score: [65, 95, 5, 5, 65]
+20260724 21:29:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:29:13 - INFO - Count: 707	Score: [65, 95, 5, 5, 95]
+20260724 21:29:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:29:49 - INFO - Count: 708	Score: [65, 95, 5, 35, 5]
+20260724 21:30:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:30:23 - INFO - Count: 709	Score: [65, 95, 5, 35, 35]
+20260724 21:30:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:30:59 - INFO - Count: 710	Score: [65, 95, 5, 35, 65]
+20260724 21:31:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:31:35 - INFO - Count: 711	Score: [65, 95, 5, 35, 95]
+20260724 21:32:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:32:11 - INFO - Count: 712	Score: [65, 95, 5, 65, 5]
+20260724 21:32:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:32:47 - INFO - Count: 713	Score: [65, 95, 5, 65, 35]
+20260724 21:33:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:33:20 - INFO - Count: 714	Score: [65, 95, 5, 65, 65]
+20260724 21:33:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:33:54 - INFO - Count: 715	Score: [65, 95, 5, 65, 95]
+20260724 21:34:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:34:28 - INFO - Count: 716	Score: [65, 95, 5, 95, 5]
+20260724 21:35:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:35:02 - INFO - Count: 717	Score: [65, 95, 5, 95, 35]
+20260724 21:35:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:35:37 - INFO - Count: 718	Score: [65, 95, 5, 95, 65]
+20260724 21:36:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:36:13 - INFO - Count: 719	Score: [65, 95, 5, 95, 95]
+20260724 21:36:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:36:48 - INFO - Count: 720	Score: [65, 95, 35, 5, 5]
+20260724 21:37:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:37:23 - INFO - Count: 721	Score: [65, 95, 35, 5, 35]
+20260724 21:37:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:37:58 - INFO - Count: 722	Score: [65, 95, 35, 5, 65]
+20260724 21:38:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:38:34 - INFO - Count: 723	Score: [65, 95, 35, 5, 95]
+20260724 21:39:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:39:11 - INFO - Count: 724	Score: [65, 95, 35, 35, 5]
+20260724 21:39:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:39:45 - INFO - Count: 725	Score: [65, 95, 35, 35, 35]
+20260724 21:40:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:40:17 - INFO - Count: 726	Score: [65, 95, 35, 35, 65]
+20260724 21:40:52 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:40:52 - INFO - Count: 727	Score: [65, 95, 35, 35, 95]
+20260724 21:41:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:41:27 - INFO - Count: 728	Score: [65, 95, 35, 65, 5]
+20260724 21:42:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:42:05 - INFO - Count: 729	Score: [65, 95, 35, 65, 35]
+20260724 21:42:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:42:42 - INFO - Count: 730	Score: [65, 95, 35, 65, 65]
+20260724 21:43:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:43:18 - INFO - Count: 731	Score: [65, 95, 35, 65, 95]
+20260724 21:43:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:43:50 - INFO - Count: 732	Score: [65, 95, 35, 95, 5]
+20260724 21:44:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:44:24 - INFO - Count: 733	Score: [65, 95, 35, 95, 35]
+20260724 21:44:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:44:56 - INFO - Count: 734	Score: [65, 95, 35, 95, 65]
+20260724 21:45:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:45:31 - INFO - Count: 735	Score: [65, 95, 35, 95, 95]
+20260724 21:46:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:46:05 - INFO - Count: 736	Score: [65, 95, 65, 5, 5]
+20260724 21:46:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:46:41 - INFO - Count: 737	Score: [65, 95, 65, 5, 35]
+20260724 21:47:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:47:18 - INFO - Count: 738	Score: [65, 95, 65, 5, 65]
+20260724 21:47:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:47:56 - INFO - Count: 739	Score: [65, 95, 65, 5, 95]
+20260724 21:48:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:48:32 - INFO - Count: 740	Score: [65, 95, 65, 35, 5]
+20260724 21:49:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:49:08 - INFO - Count: 741	Score: [65, 95, 65, 35, 35]
+20260724 21:49:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:49:42 - INFO - Count: 742	Score: [65, 95, 65, 35, 65]
+20260724 21:50:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:50:18 - INFO - Count: 743	Score: [65, 95, 65, 35, 95]
+20260724 21:50:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:50:54 - INFO - Count: 744	Score: [65, 95, 65, 65, 5]
+20260724 21:51:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:51:29 - INFO - Count: 745	Score: [65, 95, 65, 65, 35]
+20260724 21:52:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:52:04 - INFO - Count: 746	Score: [65, 95, 65, 65, 65]
+20260724 21:52:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:52:38 - INFO - Count: 747	Score: [65, 95, 65, 65, 95]
+20260724 21:53:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:53:14 - INFO - Count: 748	Score: [65, 95, 65, 95, 5]
+20260724 21:53:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:53:48 - INFO - Count: 749	Score: [65, 95, 65, 95, 35]
+20260724 21:54:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:54:22 - INFO - Count: 750	Score: [65, 95, 65, 95, 65]
+20260724 21:54:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:54:56 - INFO - Count: 751	Score: [65, 95, 65, 95, 95]
+20260724 21:55:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:55:29 - INFO - Count: 752	Score: [65, 95, 95, 5, 5]
+20260724 21:56:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:56:03 - INFO - Count: 753	Score: [65, 95, 95, 5, 35]
+20260724 21:56:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:56:38 - INFO - Count: 754	Score: [65, 95, 95, 5, 65]
+20260724 21:57:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:57:15 - INFO - Count: 755	Score: [65, 95, 95, 5, 95]
+20260724 21:57:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:57:51 - INFO - Count: 756	Score: [65, 95, 95, 35, 5]
+20260724 21:58:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:58:25 - INFO - Count: 757	Score: [65, 95, 95, 35, 35]
+20260724 21:58:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:58:59 - INFO - Count: 758	Score: [65, 95, 95, 35, 65]
+20260724 21:59:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 21:59:34 - INFO - Count: 759	Score: [65, 95, 95, 35, 95]
+20260724 22:00:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:00:10 - INFO - Count: 760	Score: [65, 95, 95, 65, 5]
+20260724 22:00:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:00:46 - INFO - Count: 761	Score: [65, 95, 95, 65, 35]
+20260724 22:01:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:01:21 - INFO - Count: 762	Score: [65, 95, 95, 65, 65]
+20260724 22:01:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:01:59 - INFO - Count: 763	Score: [65, 95, 95, 65, 95]
+20260724 22:02:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:02:37 - INFO - Count: 764	Score: [65, 95, 95, 95, 5]
+20260724 22:03:12 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:03:12 - INFO - Count: 765	Score: [65, 95, 95, 95, 35]
+20260724 22:03:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:03:46 - INFO - Count: 766	Score: [65, 95, 95, 95, 65]
+20260724 22:04:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:04:22 - INFO - Count: 767	Score: [65, 95, 95, 95, 95]
+20260724 22:04:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:04:54 - INFO - Count: 768	Score: [95, 5, 5, 5, 5]
+20260724 22:05:30 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:05:30 - INFO - Count: 769	Score: [95, 5, 5, 5, 35]
+20260724 22:06:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:06:09 - INFO - Count: 770	Score: [95, 5, 5, 5, 65]
+20260724 22:06:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:06:45 - INFO - Count: 771	Score: [95, 5, 5, 5, 95]
+20260724 22:07:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:07:22 - INFO - Count: 772	Score: [95, 5, 5, 35, 5]
+20260724 22:07:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:07:58 - INFO - Count: 773	Score: [95, 5, 5, 35, 35]
+20260724 22:08:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:08:32 - INFO - Count: 774	Score: [95, 5, 5, 35, 65]
+20260724 22:09:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:09:06 - INFO - Count: 775	Score: [95, 5, 5, 35, 95]
+20260724 22:09:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:09:40 - INFO - Count: 776	Score: [95, 5, 5, 65, 5]
+20260724 22:10:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:10:18 - INFO - Count: 777	Score: [95, 5, 5, 65, 35]
+20260724 22:10:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:10:54 - INFO - Count: 778	Score: [95, 5, 5, 65, 65]
+20260724 22:11:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:11:31 - INFO - Count: 779	Score: [95, 5, 5, 65, 95]
+20260724 22:12:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:12:09 - INFO - Count: 780	Score: [95, 5, 5, 95, 5]
+20260724 22:12:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:12:44 - INFO - Count: 781	Score: [95, 5, 5, 95, 35]
+20260724 22:13:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:13:18 - INFO - Count: 782	Score: [95, 5, 5, 95, 65]
+20260724 22:13:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:13:50 - INFO - Count: 783	Score: [95, 5, 5, 95, 95]
+20260724 22:14:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:14:31 - INFO - Count: 784	Score: [95, 5, 35, 5, 5]
+20260724 22:15:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:15:05 - INFO - Count: 785	Score: [95, 5, 35, 5, 35]
+20260724 22:15:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:15:39 - INFO - Count: 786	Score: [95, 5, 35, 5, 65]
+20260724 22:16:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:16:15 - INFO - Count: 787	Score: [95, 5, 35, 5, 95]
+20260724 22:16:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:16:53 - INFO - Count: 788	Score: [95, 5, 35, 35, 5]
+20260724 22:17:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:17:29 - INFO - Count: 789	Score: [95, 5, 35, 35, 35]
+20260724 22:18:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:18:05 - INFO - Count: 790	Score: [95, 5, 35, 35, 65]
+20260724 22:18:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:18:41 - INFO - Count: 791	Score: [95, 5, 35, 35, 95]
+20260724 22:19:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:19:15 - INFO - Count: 792	Score: [95, 5, 35, 65, 5]
+20260724 22:19:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:19:51 - INFO - Count: 793	Score: [95, 5, 35, 65, 35]
+20260724 22:20:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:20:27 - INFO - Count: 794	Score: [95, 5, 35, 65, 65]
+20260724 22:21:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:21:03 - INFO - Count: 795	Score: [95, 5, 35, 65, 95]
+20260724 22:21:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:21:35 - INFO - Count: 796	Score: [95, 5, 35, 95, 5]
+20260724 22:22:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:22:10 - INFO - Count: 797	Score: [95, 5, 35, 95, 35]
+20260724 22:22:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:22:45 - INFO - Count: 798	Score: [95, 5, 35, 95, 65]
+20260724 22:23:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:23:19 - INFO - Count: 799	Score: [95, 5, 35, 95, 95]
+20260724 22:23:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:23:54 - INFO - Count: 800	Score: [95, 5, 65, 5, 5]
+20260724 22:24:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:24:28 - INFO - Output batch 7 to data/gemma4_e4b_00/test_q_0007.jsonl
+20260724 22:24:28 - INFO - Count: 801	Score: [95, 5, 65, 5, 35]
+20260724 22:25:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:25:03 - INFO - Count: 802	Score: [95, 5, 65, 5, 65]
+20260724 22:25:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:25:38 - INFO - Count: 803	Score: [95, 5, 65, 5, 95]
+20260724 22:26:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:26:14 - INFO - Count: 804	Score: [95, 5, 65, 35, 5]
+20260724 22:26:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:26:51 - INFO - Count: 805	Score: [95, 5, 65, 35, 35]
+20260724 22:27:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:27:29 - INFO - Count: 806	Score: [95, 5, 65, 35, 65]
+20260724 22:28:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:28:04 - INFO - Count: 807	Score: [95, 5, 65, 35, 95]
+20260724 22:28:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:28:40 - INFO - Count: 808	Score: [95, 5, 65, 65, 5]
+20260724 22:29:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:29:18 - INFO - Count: 809	Score: [95, 5, 65, 65, 35]
+20260724 22:29:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:29:53 - INFO - Count: 810	Score: [95, 5, 65, 65, 65]
+20260724 22:30:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:30:28 - INFO - Count: 811	Score: [95, 5, 65, 65, 95]
+20260724 22:31:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:31:04 - INFO - Count: 812	Score: [95, 5, 65, 95, 5]
+20260724 22:31:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:31:40 - INFO - Count: 813	Score: [95, 5, 65, 95, 35]
+20260724 22:32:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:32:15 - INFO - Count: 814	Score: [95, 5, 65, 95, 65]
+20260724 22:32:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:32:50 - INFO - Count: 815	Score: [95, 5, 65, 95, 95]
+20260724 22:33:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:33:26 - INFO - Count: 816	Score: [95, 5, 95, 5, 5]
+20260724 22:34:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:34:01 - INFO - Count: 817	Score: [95, 5, 95, 5, 35]
+20260724 22:34:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:34:37 - INFO - Count: 818	Score: [95, 5, 95, 5, 65]
+20260724 22:35:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:35:14 - INFO - Count: 819	Score: [95, 5, 95, 5, 95]
+20260724 22:35:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:35:51 - INFO - Count: 820	Score: [95, 5, 95, 35, 5]
+20260724 22:36:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:36:25 - INFO - Count: 821	Score: [95, 5, 95, 35, 35]
+20260724 22:37:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:37:02 - INFO - Count: 822	Score: [95, 5, 95, 35, 65]
+20260724 22:37:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:37:39 - INFO - Count: 823	Score: [95, 5, 95, 35, 95]
+20260724 22:38:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:38:15 - INFO - Count: 824	Score: [95, 5, 95, 65, 5]
+20260724 22:38:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:38:51 - INFO - Count: 825	Score: [95, 5, 95, 65, 35]
+20260724 22:39:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:39:28 - INFO - Count: 826	Score: [95, 5, 95, 65, 65]
+20260724 22:40:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:40:06 - INFO - Count: 827	Score: [95, 5, 95, 65, 95]
+20260724 22:40:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:40:43 - INFO - Count: 828	Score: [95, 5, 95, 95, 5]
+20260724 22:41:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:41:21 - INFO - Count: 829	Score: [95, 5, 95, 95, 35]
+20260724 22:41:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:41:59 - INFO - Count: 830	Score: [95, 5, 95, 95, 65]
+20260724 22:42:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:42:37 - INFO - Count: 831	Score: [95, 5, 95, 95, 95]
+20260724 22:43:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:43:13 - INFO - Count: 832	Score: [95, 35, 5, 5, 5]
+20260724 22:43:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:43:48 - INFO - Count: 833	Score: [95, 35, 5, 5, 35]
+20260724 22:44:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:44:25 - INFO - Count: 834	Score: [95, 35, 5, 5, 65]
+20260724 22:44:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:44:58 - INFO - Count: 835	Score: [95, 35, 5, 5, 95]
+20260724 22:45:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:45:32 - INFO - Count: 836	Score: [95, 35, 5, 35, 5]
+20260724 22:46:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:46:07 - INFO - Count: 837	Score: [95, 35, 5, 35, 35]
+20260724 22:46:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:46:43 - INFO - Count: 838	Score: [95, 35, 5, 35, 65]
+20260724 22:47:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:47:17 - INFO - Count: 839	Score: [95, 35, 5, 35, 95]
+20260724 22:47:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:47:51 - INFO - Count: 840	Score: [95, 35, 5, 65, 5]
+20260724 22:48:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:48:26 - INFO - Count: 841	Score: [95, 35, 5, 65, 35]
+20260724 22:49:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:49:02 - INFO - Count: 842	Score: [95, 35, 5, 65, 65]
+20260724 22:49:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:49:35 - INFO - Count: 843	Score: [95, 35, 5, 65, 95]
+20260724 22:50:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:50:11 - INFO - Count: 844	Score: [95, 35, 5, 95, 5]
+20260724 22:50:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:50:46 - INFO - Count: 845	Score: [95, 35, 5, 95, 35]
+20260724 22:51:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:51:21 - INFO - Count: 846	Score: [95, 35, 5, 95, 65]
+20260724 22:51:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:51:56 - INFO - Count: 847	Score: [95, 35, 5, 95, 95]
+20260724 22:52:30 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:52:30 - INFO - Count: 848	Score: [95, 35, 35, 5, 5]
+20260724 22:53:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:53:05 - INFO - Count: 849	Score: [95, 35, 35, 5, 35]
+20260724 22:53:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:53:40 - INFO - Count: 850	Score: [95, 35, 35, 5, 65]
+20260724 22:54:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:54:15 - INFO - Count: 851	Score: [95, 35, 35, 5, 95]
+20260724 22:54:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:54:50 - INFO - Count: 852	Score: [95, 35, 35, 35, 5]
+20260724 22:55:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:55:27 - INFO - Count: 853	Score: [95, 35, 35, 35, 35]
+20260724 22:56:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:56:01 - INFO - Count: 854	Score: [95, 35, 35, 35, 65]
+20260724 22:56:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:56:36 - INFO - Count: 855	Score: [95, 35, 35, 35, 95]
+20260724 22:57:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:57:09 - INFO - Count: 856	Score: [95, 35, 35, 65, 5]
+20260724 22:57:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:57:46 - INFO - Count: 857	Score: [95, 35, 35, 65, 35]
+20260724 22:58:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:58:21 - INFO - Count: 858	Score: [95, 35, 35, 65, 65]
+20260724 22:58:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:58:56 - INFO - Count: 859	Score: [95, 35, 35, 65, 95]
+20260724 22:59:30 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 22:59:30 - INFO - Count: 860	Score: [95, 35, 35, 95, 5]
+20260724 23:00:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:00:04 - INFO - Count: 861	Score: [95, 35, 35, 95, 35]
+20260724 23:00:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:00:40 - INFO - Count: 862	Score: [95, 35, 35, 95, 65]
+20260724 23:01:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:01:14 - INFO - Count: 863	Score: [95, 35, 35, 95, 95]
+20260724 23:01:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:01:49 - INFO - Count: 864	Score: [95, 35, 65, 5, 5]
+20260724 23:02:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:02:25 - INFO - Count: 865	Score: [95, 35, 65, 5, 35]
+20260724 23:03:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:03:00 - INFO - Count: 866	Score: [95, 35, 65, 5, 65]
+20260724 23:03:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:03:35 - INFO - Count: 867	Score: [95, 35, 65, 5, 95]
+20260724 23:04:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:04:11 - INFO - Count: 868	Score: [95, 35, 65, 35, 5]
+20260724 23:04:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:04:48 - INFO - Count: 869	Score: [95, 35, 65, 35, 35]
+20260724 23:05:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:05:24 - INFO - Count: 870	Score: [95, 35, 65, 35, 65]
+20260724 23:05:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:05:59 - INFO - Count: 871	Score: [95, 35, 65, 35, 95]
+20260724 23:06:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:06:33 - INFO - Count: 872	Score: [95, 35, 65, 65, 5]
+20260724 23:07:12 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:07:12 - INFO - Count: 873	Score: [95, 35, 65, 65, 35]
+20260724 23:07:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:07:50 - INFO - Count: 874	Score: [95, 35, 65, 65, 65]
+20260724 23:08:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:08:27 - INFO - Count: 875	Score: [95, 35, 65, 65, 95]
+20260724 23:09:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:09:02 - INFO - Count: 876	Score: [95, 35, 65, 95, 5]
+20260724 23:09:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:09:38 - INFO - Count: 877	Score: [95, 35, 65, 95, 35]
+20260724 23:10:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:10:13 - INFO - Count: 878	Score: [95, 35, 65, 95, 65]
+20260724 23:10:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:10:51 - INFO - Count: 879	Score: [95, 35, 65, 95, 95]
+20260724 23:11:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:11:25 - INFO - Count: 880	Score: [95, 35, 95, 5, 5]
+20260724 23:12:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:12:00 - INFO - Count: 881	Score: [95, 35, 95, 5, 35]
+20260724 23:12:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:12:38 - INFO - Count: 882	Score: [95, 35, 95, 5, 65]
+20260724 23:13:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:13:13 - INFO - Count: 883	Score: [95, 35, 95, 5, 95]
+20260724 23:13:47 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:13:47 - INFO - Count: 884	Score: [95, 35, 95, 35, 5]
+20260724 23:14:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:14:23 - INFO - Count: 885	Score: [95, 35, 95, 35, 35]
+20260724 23:14:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:14:58 - INFO - Count: 886	Score: [95, 35, 95, 35, 65]
+20260724 23:15:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:15:34 - INFO - Count: 887	Score: [95, 35, 95, 35, 95]
+20260724 23:16:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:16:10 - INFO - Count: 888	Score: [95, 35, 95, 65, 5]
+20260724 23:16:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:16:46 - INFO - Count: 889	Score: [95, 35, 95, 65, 35]
+20260724 23:17:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:17:22 - INFO - Count: 890	Score: [95, 35, 95, 65, 65]
+20260724 23:18:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:18:01 - INFO - Count: 891	Score: [95, 35, 95, 65, 95]
+20260724 23:18:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:18:39 - INFO - Count: 892	Score: [95, 35, 95, 95, 5]
+20260724 23:19:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:19:17 - INFO - Count: 893	Score: [95, 35, 95, 95, 35]
+20260724 23:19:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:19:55 - INFO - Count: 894	Score: [95, 35, 95, 95, 65]
+20260724 23:20:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:20:32 - INFO - Count: 895	Score: [95, 35, 95, 95, 95]
+20260724 23:21:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:21:05 - INFO - Count: 896	Score: [95, 65, 5, 5, 5]
+20260724 23:21:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:21:41 - INFO - Count: 897	Score: [95, 65, 5, 5, 35]
+20260724 23:22:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:22:16 - INFO - Count: 898	Score: [95, 65, 5, 5, 65]
+20260724 23:22:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:22:53 - INFO - Count: 899	Score: [95, 65, 5, 5, 95]
+20260724 23:23:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:23:32 - INFO - Count: 900	Score: [95, 65, 5, 35, 5]
+20260724 23:24:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:24:08 - INFO - Output batch 8 to data/gemma4_e4b_00/test_q_0008.jsonl
+20260724 23:24:08 - INFO - Count: 901	Score: [95, 65, 5, 35, 35]
+20260724 23:24:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:24:43 - INFO - Count: 902	Score: [95, 65, 5, 35, 65]
+20260724 23:25:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:25:18 - INFO - Count: 903	Score: [95, 65, 5, 35, 95]
+20260724 23:25:53 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:25:53 - INFO - Count: 904	Score: [95, 65, 5, 65, 5]
+20260724 23:26:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:26:27 - INFO - Count: 905	Score: [95, 65, 5, 65, 35]
+20260724 23:27:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:27:01 - INFO - Count: 906	Score: [95, 65, 5, 65, 65]
+20260724 23:27:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:27:37 - INFO - Count: 907	Score: [95, 65, 5, 65, 95]
+20260724 23:28:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:28:11 - INFO - Count: 908	Score: [95, 65, 5, 95, 5]
+20260724 23:28:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:28:48 - INFO - Count: 909	Score: [95, 65, 5, 95, 35]
+20260724 23:29:25 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:29:25 - INFO - Count: 910	Score: [95, 65, 5, 95, 65]
+20260724 23:30:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:30:02 - INFO - Count: 911	Score: [95, 65, 5, 95, 95]
+20260724 23:30:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:30:38 - INFO - Count: 912	Score: [95, 65, 35, 5, 5]
+20260724 23:31:12 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:31:12 - INFO - Count: 913	Score: [95, 65, 35, 5, 35]
+20260724 23:31:48 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:31:48 - INFO - Count: 914	Score: [95, 65, 35, 5, 65]
+20260724 23:32:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:32:23 - INFO - Count: 915	Score: [95, 65, 35, 5, 95]
+20260724 23:32:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:32:58 - INFO - Count: 916	Score: [95, 65, 35, 35, 5]
+20260724 23:33:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:33:34 - INFO - Count: 917	Score: [95, 65, 35, 35, 35]
+20260724 23:34:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:34:13 - INFO - Count: 918	Score: [95, 65, 35, 35, 65]
+20260724 23:34:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:34:50 - INFO - Count: 919	Score: [95, 65, 35, 35, 95]
+20260724 23:35:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:35:26 - INFO - Count: 920	Score: [95, 65, 35, 65, 5]
+20260724 23:36:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:36:02 - INFO - Count: 921	Score: [95, 65, 35, 65, 35]
+20260724 23:36:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:36:37 - INFO - Count: 922	Score: [95, 65, 35, 65, 65]
+20260724 23:37:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:37:14 - INFO - Count: 923	Score: [95, 65, 35, 65, 95]
+20260724 23:37:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:37:51 - INFO - Count: 924	Score: [95, 65, 35, 95, 5]
+20260724 23:38:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:38:27 - INFO - Count: 925	Score: [95, 65, 35, 95, 35]
+20260724 23:39:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:39:03 - INFO - Count: 926	Score: [95, 65, 35, 95, 65]
+20260724 23:39:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:39:38 - INFO - Count: 927	Score: [95, 65, 35, 95, 95]
+20260724 23:40:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:40:14 - INFO - Count: 928	Score: [95, 65, 65, 5, 5]
+20260724 23:40:52 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:40:52 - INFO - Count: 929	Score: [95, 65, 65, 5, 35]
+20260724 23:41:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:41:29 - INFO - Count: 930	Score: [95, 65, 65, 5, 65]
+20260724 23:42:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:42:08 - INFO - Count: 931	Score: [95, 65, 65, 5, 95]
+20260724 23:42:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:42:42 - INFO - Count: 932	Score: [95, 65, 65, 35, 5]
+20260724 23:43:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:43:19 - INFO - Count: 933	Score: [95, 65, 65, 35, 35]
+20260724 23:43:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:43:56 - INFO - Count: 934	Score: [95, 65, 65, 35, 65]
+20260724 23:44:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:44:32 - INFO - Count: 935	Score: [95, 65, 65, 35, 95]
+20260724 23:45:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:45:07 - INFO - Count: 936	Score: [95, 65, 65, 65, 5]
+20260724 23:45:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:45:42 - INFO - Count: 937	Score: [95, 65, 65, 65, 35]
+20260724 23:46:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:46:19 - INFO - Count: 938	Score: [95, 65, 65, 65, 65]
+20260724 23:46:52 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:46:52 - INFO - Count: 939	Score: [95, 65, 65, 65, 95]
+20260724 23:47:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:47:28 - INFO - Count: 940	Score: [95, 65, 65, 95, 5]
+20260724 23:48:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:48:04 - INFO - Count: 941	Score: [95, 65, 65, 95, 35]
+20260724 23:48:38 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:48:38 - INFO - Count: 942	Score: [95, 65, 65, 95, 65]
+20260724 23:49:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:49:17 - INFO - Count: 943	Score: [95, 65, 65, 95, 95]
+20260724 23:49:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:49:54 - INFO - Count: 944	Score: [95, 65, 95, 5, 5]
+20260724 23:50:30 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:50:30 - INFO - Count: 945	Score: [95, 65, 95, 5, 35]
+20260724 23:51:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:51:05 - INFO - Count: 946	Score: [95, 65, 95, 5, 65]
+20260724 23:51:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:51:44 - INFO - Count: 947	Score: [95, 65, 95, 5, 95]
+20260724 23:52:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:52:20 - INFO - Count: 948	Score: [95, 65, 95, 35, 5]
+20260724 23:52:57 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:52:57 - INFO - Count: 949	Score: [95, 65, 95, 35, 35]
+20260724 23:53:33 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:53:33 - INFO - Count: 950	Score: [95, 65, 95, 35, 65]
+20260724 23:54:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:54:11 - INFO - Count: 951	Score: [95, 65, 95, 35, 95]
+20260724 23:54:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:54:46 - INFO - Count: 952	Score: [95, 65, 95, 65, 5]
+20260724 23:55:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:55:22 - INFO - Count: 953	Score: [95, 65, 95, 65, 35]
+20260724 23:55:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:55:58 - INFO - Count: 954	Score: [95, 65, 95, 65, 65]
+20260724 23:56:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:56:31 - INFO - Count: 955	Score: [95, 65, 95, 65, 95]
+20260724 23:57:08 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:57:08 - INFO - Count: 956	Score: [95, 65, 95, 95, 5]
+20260724 23:57:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:57:42 - INFO - Count: 957	Score: [95, 65, 95, 95, 35]
+20260724 23:58:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:58:16 - INFO - Count: 958	Score: [95, 65, 95, 95, 65]
+20260724 23:58:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:58:50 - INFO - Count: 959	Score: [95, 65, 95, 95, 95]
+20260724 23:59:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260724 23:59:27 - INFO - Count: 960	Score: [95, 95, 5, 5, 5]
+20260725 00:00:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:00:01 - INFO - Count: 961	Score: [95, 95, 5, 5, 35]
+20260725 00:00:37 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:00:37 - INFO - Count: 962	Score: [95, 95, 5, 5, 65]
+20260725 00:01:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:01:15 - INFO - Count: 963	Score: [95, 95, 5, 5, 95]
+20260725 00:01:49 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:01:49 - INFO - Count: 964	Score: [95, 95, 5, 35, 5]
+20260725 00:02:26 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:02:26 - INFO - Count: 965	Score: [95, 95, 5, 35, 35]
+20260725 00:03:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:03:00 - INFO - Count: 966	Score: [95, 95, 5, 35, 65]
+20260725 00:03:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:03:36 - INFO - Count: 967	Score: [95, 95, 5, 35, 95]
+20260725 00:04:13 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:04:13 - INFO - Count: 968	Score: [95, 95, 5, 65, 5]
+20260725 00:04:50 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:04:50 - INFO - Count: 969	Score: [95, 95, 5, 65, 35]
+20260725 00:05:28 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:05:28 - INFO - Count: 970	Score: [95, 95, 5, 65, 65]
+20260725 00:06:03 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:06:03 - INFO - Count: 971	Score: [95, 95, 5, 65, 95]
+20260725 00:06:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:06:34 - INFO - Count: 972	Score: [95, 95, 5, 95, 5]
+20260725 00:07:09 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:07:09 - INFO - Count: 973	Score: [95, 95, 5, 95, 35]
+20260725 00:07:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:07:44 - INFO - Count: 974	Score: [95, 95, 5, 95, 65]
+20260725 00:08:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:08:20 - INFO - Count: 975	Score: [95, 95, 5, 95, 95]
+20260725 00:08:55 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:08:55 - INFO - Count: 976	Score: [95, 95, 35, 5, 5]
+20260725 00:09:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:09:31 - INFO - Count: 977	Score: [95, 95, 35, 5, 35]
+20260725 00:10:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:10:06 - INFO - Count: 978	Score: [95, 95, 35, 5, 65]
+20260725 00:10:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:10:44 - INFO - Count: 979	Score: [95, 95, 35, 5, 95]
+20260725 00:11:19 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:11:19 - INFO - Count: 980	Score: [95, 95, 35, 35, 5]
+20260725 00:11:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:11:54 - INFO - Count: 981	Score: [95, 95, 35, 35, 35]
+20260725 00:12:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:12:29 - INFO - Count: 982	Score: [95, 95, 35, 35, 65]
+20260725 00:13:05 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:13:05 - INFO - Count: 983	Score: [95, 95, 35, 35, 95]
+20260725 00:13:43 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:13:43 - INFO - Count: 984	Score: [95, 95, 35, 65, 5]
+20260725 00:14:22 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:14:22 - INFO - Count: 985	Score: [95, 95, 35, 65, 35]
+20260725 00:14:59 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:14:59 - INFO - Count: 986	Score: [95, 95, 35, 65, 65]
+20260725 00:15:34 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:15:34 - INFO - Count: 987	Score: [95, 95, 35, 65, 95]
+20260725 00:16:10 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:16:10 - INFO - Count: 988	Score: [95, 95, 35, 95, 5]
+20260725 00:16:45 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:16:45 - INFO - Count: 989	Score: [95, 95, 35, 95, 35]
+20260725 00:17:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:17:16 - INFO - Count: 990	Score: [95, 95, 35, 95, 65]
+20260725 00:17:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:17:51 - INFO - Count: 991	Score: [95, 95, 35, 95, 95]
+20260725 00:18:29 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:18:29 - INFO - Count: 992	Score: [95, 95, 65, 5, 5]
+20260725 00:19:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:19:07 - INFO - Count: 993	Score: [95, 95, 65, 5, 35]
+20260725 00:19:46 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:19:46 - INFO - Count: 994	Score: [95, 95, 65, 5, 65]
+20260725 00:20:24 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:20:24 - INFO - Count: 995	Score: [95, 95, 65, 5, 95]
+20260725 00:21:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:21:00 - INFO - Count: 996	Score: [95, 95, 65, 35, 5]
+20260725 00:21:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:21:39 - INFO - Count: 997	Score: [95, 95, 65, 35, 35]
+20260725 00:22:20 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:22:20 - INFO - Count: 998	Score: [95, 95, 65, 35, 65]
+20260725 00:22:56 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:22:56 - INFO - Count: 999	Score: [95, 95, 65, 35, 95]
+20260725 00:23:32 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:23:32 - INFO - Count: 1000	Score: [95, 95, 65, 65, 5]
+20260725 00:24:07 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:24:07 - INFO - Output batch 9 to data/gemma4_e4b_00/test_q_0009.jsonl
+20260725 00:24:07 - INFO - Count: 1001	Score: [95, 95, 65, 65, 35]
+20260725 00:24:42 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:24:42 - INFO - Count: 1002	Score: [95, 95, 65, 65, 65]
+20260725 00:25:23 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:25:23 - INFO - Count: 1003	Score: [95, 95, 65, 65, 95]
+20260725 00:25:58 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:25:58 - INFO - Count: 1004	Score: [95, 95, 65, 95, 5]
+20260725 00:26:27 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:26:27 - INFO - Count: 1005	Score: [95, 95, 65, 95, 35]
+20260725 00:27:01 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:27:01 - INFO - Count: 1006	Score: [95, 95, 65, 95, 65]
+20260725 00:27:36 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:27:36 - INFO - Count: 1007	Score: [95, 95, 65, 95, 95]
+20260725 00:28:11 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:28:11 - INFO - Count: 1008	Score: [95, 95, 95, 5, 5]
+20260725 00:28:44 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:28:44 - INFO - Count: 1009	Score: [95, 95, 95, 5, 35]
+20260725 00:29:21 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:29:21 - INFO - Count: 1010	Score: [95, 95, 95, 5, 65]
+20260725 00:29:57 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:29:57 - INFO - Count: 1011	Score: [95, 95, 95, 5, 95]
+20260725 00:30:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:30:31 - INFO - Count: 1012	Score: [95, 95, 95, 35, 5]
+20260725 00:31:06 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:31:06 - INFO - Count: 1013	Score: [95, 95, 95, 35, 35]
+20260725 00:31:40 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:31:40 - INFO - Count: 1014	Score: [95, 95, 95, 35, 65]
+20260725 00:32:15 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:32:15 - INFO - Count: 1015	Score: [95, 95, 95, 35, 95]
+20260725 00:32:51 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:32:51 - INFO - Count: 1016	Score: [95, 95, 95, 65, 5]
+20260725 00:33:30 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:33:30 - INFO - Count: 1017	Score: [95, 95, 95, 65, 35]
+20260725 00:34:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:34:04 - INFO - Count: 1018	Score: [95, 95, 95, 65, 65]
+20260725 00:34:39 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:34:39 - INFO - Count: 1019	Score: [95, 95, 95, 65, 95]
+20260725 00:35:18 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:35:18 - INFO - Count: 1020	Score: [95, 95, 95, 95, 5]
+20260725 00:35:54 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:35:54 - INFO - Count: 1021	Score: [95, 95, 95, 95, 35]
+20260725 00:36:31 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:36:31 - INFO - Count: 1022	Score: [95, 95, 95, 95, 65]
+20260725 00:37:04 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+20260725 00:37:04 - INFO - Count: 1023	Score: [95, 95, 95, 95, 95]
+20260725 00:37:41 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
