@@ -12,6 +12,7 @@ import json
 import tomllib
 from google import genai
 import ollama
+import pandas as pd
 
 __author__ = "Ting-Shuo Yo"
 __copyright__ = "Copyright 2026~2028, DataQualia Lab Co. Ltd."
@@ -100,6 +101,7 @@ def main():
     # Configure Argument Parser
     parser = argparse.ArgumentParser(description='Building convolutional autoencoder .')
     #parser.add_argument('--config', '-c', help='the configuration file in json format.')
+    parser.add_argument('--input', '-i', default=None, help='the CSV file contains OCEAN scores in each row.')
     parser.add_argument('--model', '-m', default="gemma4:latest", help='the name of LLM.')
     parser.add_argument('--temperature', '-t', type=float, default=0.0, help='the temperature for LLM.')
     parser.add_argument('--output', '-o', help='the prefix of output files.')
@@ -114,16 +116,23 @@ def main():
     )
     if not args.logfile is None:
         logging.basicConfig(level=logging.DEBUG, filename=args.logfile, filemode='w')
-    logging.debug(args)
+    logging.info(args)
+    # Read in OCEAN scores
+    if not args.input is None:
+        logging.info("Read OCEAN scores from file: "+args.input)
+        scores = pd.read_csv(args.input)
+        scores = scores.to_numpy().tolist()
+    else:
     # Generate Scores
-    levels = [i for i in range(5,100,30)]
-    scores = []
-    for o in levels:
-        for c in levels:
-            for e in levels:
-                for a in levels:
-                    for n in levels:
-                        scores.append([o,c,e,a,n])
+        logging.info("Create OCEAN scores with PR=[5, 35, 65, 95]")
+        levels = [i for i in range(5,100,30)]
+        scores = []
+        for o in levels:
+            for c in levels:
+                for e in levels:
+                    for a in levels:
+                        for n in levels:
+                            scores.append([o,c,e,a,n])
     # Loop through scores
     output = []
     counter = 0
