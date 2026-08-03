@@ -93,7 +93,7 @@ def main():
         # Generate responses
         results = respond_likert_questionnaire_ollama(items, config['instruction'], p['persona'], config['random_seed'])
         # Prepare output
-        pd.DataFrame(results).to_csv(args.output+'+'+id+'.csv')
+        pd.DataFrame(results).to_csv(args.output+'_'+id+'.csv')
         # done
     return(0)
 
