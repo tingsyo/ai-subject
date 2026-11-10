@@ -13,6 +13,7 @@ import tomllib
 from google import genai
 import ollama
 import pandas as pd
+import time
 
 __author__ = "Ting-Shuo Yo"
 __copyright__ = "Copyright 2026~2028, DataQualia Lab Co. Ltd."
@@ -147,6 +148,8 @@ def main():
             fname = args.output + "_" + str(counter).zfill(4) + ".jsonl"
             logging.info("Output batch "+str(counter)+" to "+fname)
             write_jsonl(output, fname)
+            # Clean up and sleep
+            time.sleep(30)
             counter = counter + 1
             output =[]
     # Output the final batch
