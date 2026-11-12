@@ -13,6 +13,7 @@ import json
 import tomllib
 import ollama
 import pandas as pd
+import numpy as np
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
@@ -55,10 +56,13 @@ def respond_likert_questionnaire_ollama(questionnaire, instruction, persona="", 
           - random_seed: int, rnadom seed to control the generation.
           - return: a list ofdictionary that contains the generated responses to the questionnaire.
     '''
+    # Loop thropugh items in the questionnaire
     results = []
     for item in questionnaire:
         res = respond_likert_item_ollama(item, instruction, persona, random_seed)
         results.append({'rating':res.rating,'reasoning':res.reasoning})
+    # Add random seed information
+    results.append({'rating':random_seed,'reasoning':'Random Seed'})
     return(results)
 
 #-----------------------------------------------------------------------
@@ -81,13 +85,16 @@ def main():
     with open(args.config, 'rb') as f:
         config = tomllib.load(f)
         logging.info('Loading configuration.')
+    # Check random seed
+    if config['random_seed'] == 'none':
+        config['random_seed'] = np.random.SeedSequence().entropy
     # Read questionnaire file
     questionnaire = pd.read_csv(args.items)
     items = list(questionnaire['item'])
     # Generate responses
     results = respond_likert_questionnaire_ollama(items, config['instruction'], config['persona'], config['random_seed'])
     # Prepare output
-    pd.DataFrame(results).to_csv(args.output)
+    pd.DataFrame(results).to_csv(args.output, index=False)
     # done
     return(0)
 
